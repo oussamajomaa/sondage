@@ -1,1 +1,127 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body,
+
+span,
+label,
+input,
+textarea,
+select,
+button,
+p,
+a,
+ul,
+li,
+table,
+tr,
+th,
+td,
+i {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+.btn-primary {
+    background: #2f4554;
+}
+
+.btn-primary:hover {
+    background: #5e88a5;
+}
+
+.form-control:focus,
+.form-select:focus {
+    box-shadow: none;
+}
+
+.form-select {
+    width: 320px;
+}
+
+.select-year {
+    position: absolute;
+    left: calc(11% + 230px);
+    top: 10px;
+    width: 220px;
+    z-index: 10
+}
+
+.side {
+    width: 10%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    height: calc(100vh - 56px);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+nav.navbar,
+nav.navbar-expand-lg {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background: #2f4554;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 20
+}
+
+.dropdown-item.active {
+    background-color: #2f4554 !important;
+}
+
+.content {
+    width: 90%;
+    margin-left: 10%;
+    box-sizing: border-box;
+    /* height: calc(100vh - 68px); */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+   
+}
+/* canvas{
+    width: 90% !important;
+} */
+.lorem {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: calc(100vh - 68px);
+    width: 90%;
+    margin-left: 10%;
+    padding: 20px;
+}
+
+/* span.etudiant {
+    position: absolute;
+    left: calc(11% + 560px);
+    top: 10px;
+    z-index: 10;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    background: grey;
+}
+
+span.promotion {
+    position: absolute;
+    left: calc(11% + 670px);
+    top: 10px;
+    z-index: 10;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    background: grey;
+} */

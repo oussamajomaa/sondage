@@ -1,0 +1,7 @@
+<div class="login">
+    <h3>Enter user name</h3>
+    <input placeholder="Enter user name" [(ngModel)]="email" type="email">
+    <h3>Enter password</h3>
+    <input [type]="hide ? 'password' : 'text'" [(ngModel)]="password">
+    <button (click)="login()" [disabled]="email==='' || password ===''" class="btn btn-primary">Login</button>
+</div>
