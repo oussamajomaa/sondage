@@ -40,6 +40,9 @@ export class OneModuleService {
 	DFASM1 = []
 	DFASM2 = []
 
+	sumModule: number
+	sumYear: number
+
 	constructor(
 		private http: HttpClient,
 		private chartService: ChartService
@@ -66,313 +69,421 @@ export class OneModuleService {
 		this.http.get(`./assets/data/question43.json`).subscribe((res: any) => this.data43 = res)
 	}
 
-	getQuestion(res = [], val: string, question:string) {
+	getQuestion(res = [], val: string, question: string) {
 		let arr = []
-		if (question === "question4"){
+		if (question === "question4") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.ressource_preferee == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.ressource_preferee != "empty").length
+
 		}
-		if (question === "question5"){
+		if (question === "question5") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.videos_visionnees == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.videos_visionnees != "empty").length
 		}
-		if (question === "question6"){
+		if (question === "question6") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.presence_enseignement_magistral == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.presence_enseignement_magistral != "empty").length
 		}
-		if (question === "question7"){
+		if (question === "question7") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.utilite_enseignement_magistral == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.utilite_enseignement_magistral != "empty").length
 		}
-		if (question === "question10"){
+		if (question === "question10") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.volume_enseignement_magistralResponse == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.volume_enseignement_magistralResponse != "empty").length
 		}
-		if (question === "question11"){
+		if (question === "question11") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.presence_aux_ED == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.presence_aux_ED != "empty").length
 		}
-		if (question === "question12"){
+		if (question === "question12") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.utilite_des_ED == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.utilite_des_ED != "empty").length
 		}
-		if (question === "question15"){
+		if (question === "question15") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.duree_des_ED == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.duree_des_ED != "empty").length
 		}
-		if (question === "question20"){
+		if (question === "question20") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.nombre_intervenants_CM == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.nombre_intervenants_CM != "empty").length
 		}
-		if (question === "question21"){
+		if (question === "question21") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.nombre_intervenants_ED == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.nombre_intervenants_ED != "empty").length
 		}
-		if (question === "question22"){
+		if (question === "question22") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.preference_interactivite_presentiel == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.preference_interactivite_presentiel != "empty").length
 		}
-		if (question === "question23"){
+		if (question === "question23") {
 			this.xaxis.map(x => arr.push(res.filter(r => Math.round(r.preference_presentiel_versus_distanciel / 10) * 10 == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.preference_presentiel_versus_distanciel != "empty").length
 		}
-		if (question === "question24"){
+		if (question === "question24") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.contrainte_controles_continus == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.contrainte_controles_continus != "empty").length
 		}
-		if (question === "question25"){
+		if (question === "question25") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.timing_controles_continus == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.timing_controles_continus != "empty").length
 		}
-		if (question === "question36"){
+		if (question === "question36") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.genre == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.genre != "empty").length
 		}
-		if (question === "question37"){
-			this.xaxis.map( x => arr.push(res.filter(r => Math.round(r.age / 10) * 10 == x && r.annee == val).length))
+		if (question === "question37") {
+			this.xaxis.map(x => arr.push(res.filter(r => Math.round(r.age / 10) * 10 == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.age != "empty").length
 		}
-		if (question === "question39"){
+		if (question === "question39") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.prepa_privee == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.prepa_privee != "empty").length
 		}
-		if (question === "question41"){
+		if (question === "question41") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.auto_financement == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.auto_financement != "empty").length
 		}
-		if (question === "question42"){
+		if (question === "question42") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.duree_transport == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.duree_transport != "empty").length
 		}
-		if (question === "question43"){
+		if (question === "question43") {
 			this.xaxis.map(x => arr.push(res.filter(r => r.pratique_souhaitee == x && r.annee == val).length))
+			this.sumModule = res.filter(r => r.pratique_souhaitee != "empty").length
 		}
-		
+
 		return arr
 	}
 
-	question(question:string) {
+	arr = []
+	year: string
+	getByYear(res = [], val: string, year: string) {
+		this.arr = []
+		this.xaxis.map(x => this.arr.push(res.filter(r => r[val] == x && r.annee == year).length))
+		this.sumYear = res.filter(r => r.annee == year).length
+		return this.arr
+	}
+
+	question(question: string) {
 		this.series = []
-		if (question === "question4"){
+		let oneYear = []
+		if (question === "question4") {
 			this.title = "Concernant les enregistrements (vidéos/capsules), quelle proportion d’entre eux avez-vous visionné l’an passé ?"
 			this.xaxis = [
-				"empty",
+				
 				"Ronéo rédigée \n par les étudiants \n de la promotion",
 				"Diaporama ou \n pdf du cours",
 				"Enregistrement \n vidéo des cours",
 				"Enregistrement vidéo \n créé spécialement",
-				"Polycopié local \n fait par les enseignants",
+				"Polycopié local \n fait par \n les enseignants",
 				"Référentiel \n national"
 			]
 			this.subtitle = "Ressource préferée"
 			
-			this.DFGSM2 = this.getQuestion(this.data4, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data4, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data4, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data4, "DFASM2",question)
+			if (!this.year) {
+				this.DFGSM2 = this.getQuestion(this.data4, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data4, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data4, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data4, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data4, 'ressource_preferee', this.year))
 		}
 
-		if (question === "question5"){
+		if (question === "question5") {
 			this.title = "Concernant les enregistrements (vidéos/capsules), quelle proportion d’entre eux avez-vous visionné l’an passé ?"
-			this.xaxis = ["empty","Entre 10% et <25%","Entre 25% et <50%","Entre 50% et <75%","Moins de 10%", "Plus de 75%"]
-			this.subtitle = "Vidéos_visionnées"
+			this.xaxis = ["Entre 10% et <25%", "Entre 25% et <50%", "Entre 50% et <75%", "Moins de 10%", "Plus de 75%"]
+			this.subtitle = "Vidéos visionnées"
 			
-			this.DFGSM2 = this.getQuestion(this.data5, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data5, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data5, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data5, "DFASM2",question)
+			if (!this.year) {
+				this.DFGSM2 = this.getQuestion(this.data5, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data5, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data5, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data5, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data5, 'videos_visionnees', this.year))
 		}
 
-		if (question === "question6"){
+		if (question === "question6") {
 			this.title = "Concernant le volume horaire des enseignements magistraux (en amphi), voudriez-vous ?"
-			this.xaxis = ["empty","Au cas par cas","Presque toujours","Quasiment jamais"]
+			this.xaxis = ["Au cas par cas", "Presque toujours", "Quasiment jamais"]
 			this.subtitle = "Présence enseignement magistral"
-			
-			this.DFGSM2 = this.getQuestion(this.data6, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data6, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data6, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data6, "DFASM2",question)
+
+			if (!this.year) {
+				this.DFGSM2 = this.getQuestion(this.data6, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data6, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data6, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data6, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data6, 'presence_enseignement_magistral', this.year))
 		}
 
-		if (question === "question7"){
+		if (question === "question7") {
 			this.title = "Lorsque vous avez assisté aux cours magistraux (en amphi), vous ont-ils été plutôt utiles ?"
-			this.xaxis = ["empty","Non","Oui","Sans avis \njamais assisté \naux cours"]
+			this.xaxis = ["Non", "Oui", "Sans avis \njamais assisté \naux cours"]
 			this.subtitle = "Utilité enseignement magistral"
-			
-			this.DFGSM2 = this.getQuestion(this.data7, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data7, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data7, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data7, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data7, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data7, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data7, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data7, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data7, 'utilite_enseignement_magistral', this.year))
 		}
 
-		if (question === "question10"){
+		if (question === "question10") {
 			this.title = "Concernant le volume horaire des enseignements magistraux (en amphi), voudriez-vous ?"
-			this.xaxis = ["empty","L'augmenter","Le laisser inchangé","Le réduire","Sans avis"]
+			this.xaxis = ["L'augmenter", "Le laisser inchangé", "Le réduire", "Sans avis"]
 			this.subtitle = "Volume enseignement magistral Response"
-			
-			this.DFGSM2 = this.getQuestion(this.data10, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data10, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data10, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data10, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data10, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data10, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data10, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data10, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data10, 'volume_enseignement_magistralResponse', this.year))
 		}
 
-		if (question === "question11"){
+		if (question === "question11") {
 			this.title = "Assistez-vous aux enseignements dirigés (ED) ? "
-			this.xaxis = ["empty", "Au cas par cas", "Presque toujours", "Quasiment jamais"]
+			this.xaxis = ["Au cas par cas", "Presque toujours", "Quasiment jamais"]
 			this.subtitle = "Présence aux ED"
-			
-			this.DFGSM2 = this.getQuestion(this.data11, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data11, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data11, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data11, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data11, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data11, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data11, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data11, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data11, 'presence_aux_ED', this.year))
 		}
 
-		if (question === "question12"){
+		if (question === "question12") {
 			this.title = "Lorsque vous avez assisté aux ED, vous ont-ils été plutôt utiles ?"
-			this.xaxis = ["empty", "Non", "Oui", "Sans avis\n(jamais assisté aux ED)"]
+			this.xaxis = ["Non", "Oui", "Sans avis\n(jamais\nassisté aux ED)"]
 			this.subtitle = "Utilité des ED"
-			
-			this.DFGSM2 = this.getQuestion(this.data12, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data12, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data12, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data12, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data12, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data12, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data12, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data12, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data12, 'utilite_des_ED', this.year))
 		}
 
-		if (question === "question15"){
+		if (question === "question15") {
 			this.title = "Concernant le volume horaire des ED, voudriez-vous ?"
-			this.xaxis = ["empty", "Augmenter", "Inchanger", "Réduire", "Sans avis"]
+			this.xaxis = ["Augmenter", "Inchanger", "Réduire", "Sans avis"]
 			this.subtitle = "Durée des ED"
-			
-			this.DFGSM2 = this.getQuestion(this.data15, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data15, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data15, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data15, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data15, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data15, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data15, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data15, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data15, 'duree_des_ED', this.year))
 		}
 
-		if (question === "question20"){
+		if (question === "question20") {
 			this.title = "Concernant les cours magistraux (en amphi), préférez-vous qu’il y ait ?"
-			this.xaxis = ["empty", "Au moins 2 intervenants", "Sans avis", "Un seul intervenant"]
+			this.xaxis = ["Au moins \n2 intervenants", "Sans avis", "Un seul intervenant"]
 			this.subtitle = "Nombre intervenants CM"
-			
-			this.DFGSM2 = this.getQuestion(this.data20, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data20, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data20, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data20, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data20, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data20, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data20, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data20, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data20, 'nombre_intervenants_CM', this.year))
 		}
 
-		if (question === "question21"){
+		if (question === "question21") {
 			this.title = "Concernant les ED, préférez-vous qu’il y ait ?"
-			this.xaxis = ["empty", "Au moins 2 intervenants", "Sans avis", "Un seul intervenant"]
+			this.xaxis = ["Au moins \n2 intervenants", "Sans avis", "Un seul intervenant"]
 			this.subtitle = "Nombre intervenants ED"
-			
-			this.DFGSM2 = this.getQuestion(this.data21, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data21, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data21, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data21, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data21, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data21, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data21, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data21, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data21, 'nombre_intervenants_ED', this.year))
 		}
 
-		if (question === "question22"){
+		if (question === "question22") {
 			this.title = "Dans le cadre du présentiel, pour permettre l’interactivité, préférez-vous ? "
-			this.xaxis = ["empty", "Sans avis", "Un enseignement\nen amphi\n(grand groupe)", "Un enseignement\nen salles\n(petits groupes)"]
+			this.xaxis = ["Sans avis", "Un enseignement\nen amphi\n(grand groupe)", "Un enseignement\nen salles\n(petits groupes)"]
 			this.subtitle = "Préférence interactivité presentiel"
-			
-			this.DFGSM2 = this.getQuestion(this.data22, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data22, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data22, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data22, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data22, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data22, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data22, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data22, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data22, 'preference_interactivite_presentiel', this.year))
 		}
 
-		if (question === "question23"){
+		if (question === "question23") {
 			this.title = "Entre du « tout présentiel » (à gauche de l’échelle) et du « tout distanciel » (à droite de l’échelle), où situez-vous votre préférence ?"
-			this.xaxis = [10,20,30,40,50,60,70,80,90,100]
+			this.xaxis = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 			this.subtitle = "Préférence présentiel versus distanciel"
-			
-			this.DFGSM2 = this.getQuestion(this.data23, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data23, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data23, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data23, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data23, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data23, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data23, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data23, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data23, 'preference_presentiel_versus_distanciel', this.year))
 		}
 
-		if (question === "question24"){
+		if (question === "question24") {
 			this.title = "Les contrôles continus sont :"
-			this.xaxis = ["empty","Utile", "Inutile", "Sans avis"]
+			this.xaxis = ["Utile", "Inutile", "Sans avis"]
 			this.subtitle = "Contrainte controles continus"
-			
-			this.DFGSM2 = this.getQuestion(this.data24, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data24, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data24, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data24, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data24, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data24, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data24, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data24, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data24, 'contrainte_controles_continus', this.year))
 		}
 
-		if (question === "question25"){
+		if (question === "question25") {
 			this.title = "Les contrôles continus sont plus utiles :"
-			this.xaxis = ["empty","En début d’ED,\nobligeant un minimum\nde préparation\npersonnelle rendant\nl’ED plus performant", "En fin d’ED,\nvalorisant les acquis\nlors de la séance", "Sans avis"]
+			this.xaxis = ["En début d’ED,\nobligeant un minimum\nde préparation\npersonnelle rendant\nl’ED plus performant", "En fin d’ED,\nvalorisant les acquis\nlors de la séance", "Sans avis"]
 			this.subtitle = "Timing controles continus"
-			
-			this.DFGSM2 = this.getQuestion(this.data25, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data25, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data25, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data25, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data25, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data25, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data25, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data25, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data25, 'timing_controles_continus', this.year))
 		}
 
-		if (question === "question36"){
+		if (question === "question36") {
 			this.title = "Vous êtes:"
-			this.xaxis = ["empty","Un garçon", "Une fille", "Autre ou ne souhaite\npas répondre"]
+			this.xaxis = ["Un garçon", "Une fille", "Autre ou ne souhaite\npas répondre"]
 			this.subtitle = "genre"
-			
-			this.DFGSM2 = this.getQuestion(this.data36, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data36, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data36, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data36, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data36, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data36, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data36, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data36, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data36, 'genre', this.year))
 		}
-		
-		if (question === "question37"){
+
+		if (question === "question37") {
 			this.title = "Votre âge:"
 			// this.xaxis = [18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42]
-			this.xaxis1 = ["entre 18 - 24","entre 25 - 34","entre 35 - 42"]
-			this.xaxis = [20,30,40]
+			this.xaxis1 = ["entre 18 - 24", "entre 25 - 34", "entre 35 - 42"]
+			this.xaxis = [20, 30, 40]
 			this.subtitle = "âge"
-			
-			this.DFGSM2 = this.getQuestion(this.data37, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data37, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data37, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data37, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data37, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data37, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data37, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data37, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data37, 'age', this.year))
 		}
 
-		if (question === "question39"){
+		if (question === "question39") {
 			this.title = "Lors de votre première année (PACES/PACESadaptée/PASS/LAS) avez-vous suivi une « prépa privée» :"
-			this.xaxis = ["empty", "Oui", "Non"]
+			this.xaxis = ["Oui", "Non"]
 			this.subtitle = "prepa privée"
-			
-			this.DFGSM2 = this.getQuestion(this.data39, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data39, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data39, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data39, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data39, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data39, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data39, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data39, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data39, 'prepa_privee', this.year))
 		}
 
-		if (question === "question41"){
+		if (question === "question41") {
 			this.title = "Contribuez-vous à financer vos études par une activité extérieure ?"
-			this.xaxis = ["empty", "Oui", "Non"]
+			this.xaxis = ["Oui", "Non"]
 			this.subtitle = "Auto financement"
-			
-			this.DFGSM2 = this.getQuestion(this.data41, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data41, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data41, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data41, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data41, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data41, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data41, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data41, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data41, 'auto_financement', this.year))
 		}
 
-		if (question === "question42"){
+		if (question === "question42") {
 			this.title = "Quelle est actuellement la durée moyenne de votre transport du domicile à la faculté ?"
-			this.xaxis = ["empty", "entre 1 heure\net 2 heures", "entre 15\net 30 minutes" , "entre 30 et\n60 minutes", "moins de 15 minutes", "plus de 2 heures"]
+			this.xaxis = ["entre 1 heure\net 2 heures", "entre 15\net 30 minutes", "entre 30 et\n60 minutes", "moins de 15 minutes", "plus de 2 heures"]
 			this.subtitle = "Auto financement"
-			
-			this.DFGSM2 = this.getQuestion(this.data42, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data42, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data42, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data42, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data42, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data42, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data42, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data42, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data42, 'duree_transport', this.year))
 		}
 
-		if (question === "question43"){
+		if (question === "question43") {
 			this.title = "Quelle pratique médicale souhaiteriez-vous exercer ?"
-			this.xaxis = ["empty", "Mixte\n(privé et public)", "Ne sait pas\npour le moment" , "Secteur privé", "Secteur public"]
+			this.xaxis = ["Mixte\n(privé et public)", "Ne sait pas\npour le moment", "Secteur privé", "Secteur public"]
 			this.subtitle = "Pratique souhaitée"
-			
-			this.DFGSM2 = this.getQuestion(this.data43, "DFGSM2",question)
-			this.DFGSM3 = this.getQuestion(this.data43, "DFGSM3",question)
-			this.DFASM1 = this.getQuestion(this.data43, "DFASM1",question)
-			this.DFASM2 = this.getQuestion(this.data43, "DFASM2",question)
+
+			if (!this.year){
+				this.DFGSM2 = this.getQuestion(this.data43, "DFGSM2", question)
+				this.DFGSM3 = this.getQuestion(this.data43, "DFGSM3", question)
+				this.DFASM1 = this.getQuestion(this.data43, "DFASM1", question)
+				this.DFASM2 = this.getQuestion(this.data43, "DFASM2", question)
+			}
+			else oneYear = (this.getByYear(this.data43, 'pratique_souhaitee', this.year))
 		}
-		
-		
-		this.series = this.createSeries([
-			{ name: "DFGSM2", data: this.DFGSM2 },
-			{ name: "DFGSM3", data: this.DFGSM3 },
-			{ name: "DFASM1", data: this.DFASM1 },
-			{ name: "DFASM2", data: this.DFASM2 }
-		])
+
+		if (!this.year) {
+			this.legend = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
+			this.series = this.createSeries([
+				{ name: "DFGSM2", data: this.DFGSM2 },
+				{ name: "DFGSM3", data: this.DFGSM3 },
+				{ name: "DFASM1", data: this.DFASM1 },
+				{ name: "DFASM2", data: this.DFASM2 }
+			])
+		}
+		else {
+			this.legend = [this.year]
+			this.series = this.createSeries([
+				{ name: this.year, data: oneYear },
+			])
+		}
 		if (question == 'question37') this.xaxis = this.xaxis1
 		this.bar = this.chartService.bar(this.title, this.subtitle, this.legend, this.xaxis, this.series)
+	}
+
+	selectYear(year) {
+		if (year == 'Toutes les promotions') year = null
+		this.year = year
+	}
+
+	resetYear(){
+		this.year = null
 	}
 
 	createSeries(arr: any[]) {
@@ -381,6 +492,7 @@ export class OneModuleService {
 			series.push({
 				name: val.name,
 				type: 'bar',
+				stack: 'total',
 				// label: {
 				// 	show: true
 				// },

@@ -10,7 +10,11 @@ import { ManyResponseService } from '../services/many-response.service';
 	styleUrls: ['./rubrique3.component.css']
 })
 export class Rubrique3Component {
-	@ViewChild('select') select: ElementRef;
+	@ViewChild('select1') select1: ElementRef;
+	@ViewChild('select2') select2: ElementRef;
+	@ViewChild('comment') comment: ElementRef;
+	@ViewChild('textarea') textarea: ElementRef;
+	
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
@@ -19,69 +23,143 @@ export class Rubrique3Component {
 	// 	"question11", "question12", "question13", "question14", "question15"
 	// ]
 	questions = [
-		"question8"
+		"question7", "question8", "question9", 
 	]
 	modules = []
 	module: string
+	year:string
 	isModule = false
-
+	promotions = []
+	sum:number
+	
 	constructor(
 		private question9Service: Question9Service,
 		private oneModule: OneModuleService,
 		private manyReponse: ManyResponseService,
+		
 
 	) { 
-		this.question9Service.resetModule()		
+		this.oneModule.resetYear()
 	}
+	
 
 	question(nbr) {
-		if (this.select && this.questionNBR != nbr) this.resetModule()
-		this.questionNBR = nbr
 		this.isChart = true
+		this.sum = null
+		if (this.select1 && this.questionNBR != nbr) this.resetModule()
+		if (this.select2 && this.questionNBR != nbr) this.resetYear()
 		
+		if (this.questionNBR != nbr) {			
+			this.bar = {}
+		}
+		this.questionNBR = nbr
+		
+		this.resetComment()
+
 		if (this.questionNBR == "question9") {
 			this.isModule = true
+			this.promotions = ["DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.modules = [
 				"Nombre heures trop important", "Faible valeur ajoutée", "Perte temps transports", "Accès ressources internet",
 				"Rester concentre plus 2 heures", "Stage journée complète",
 			]
-			this.question9Service.question()
-			this.bar = this.question9Service.bar
 		}
 		
 		if (this.questionNBR == "question6" || this.questionNBR == "question7" || this.questionNBR == "question10" || this.questionNBR == "question11" || this.questionNBR == "question12" || this.questionNBR == "question15"){
+			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.isModule = false
 			this.oneModule.question(this.questionNBR)
 			this.bar = this.oneModule.bar
+			this.sum = this.oneModule.sumModule
 		}
 		
 		if (this.questionNBR == "question8" || this.questionNBR == "question13" || this.questionNBR == "question14") {
+			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.isModule = false
 			this.manyReponse.question(this.questionNBR)
 			this.bar = this.manyReponse.bar
+			this.sum = this.manyReponse.sumModule
 		}
 	}
 
 	selectModule(e) {
+		this.resetComment()
+		this.resetYear()
 		this.module = e.target.value
-		console.log(this.module);
-		console.log(this.questionNBR);
-		
+		this.sum = null
 		
 		if (this.questionNBR == "question9") {
 			this.question9Service.selectModule(this.module)
-			this.question(this.questionNBR)
+			this.question9Service.question()
+			this.bar = this.question9Service.bar
+			this.sum = this.question9Service.sumModule
 		}
+		
+	}
+
+	selectYear(e) {
+		this.resetComment()
+		
+		this.year = e.target.value
+		this.sum = null
+
+		if (this.questionNBR == "question9") {
+			this.resetModule()
+			this.question9Service.selectYear(this.year)
+			this.question9Service.question()
+			this.bar = this.question9Service.bar
+			this.sum = this.question9Service.sumYear
+		}
+
+		if (this.questionNBR == "question6" || this.questionNBR == "question7" || this.questionNBR == "question10" || this.questionNBR == "question11" || this.questionNBR == "question12" || this.questionNBR == "question15"){
+			this.oneModule.selectYear(this.year)
+			this.oneModule.question(this.questionNBR)
+			this.bar = this.oneModule.bar
+			this.sum = this.oneModule.sumYear
+			if (this.year == "Toutes les promotions") this.sum = this.oneModule.sumModule
+		}
+
+		if (this.questionNBR == "question8" || this.questionNBR == "question13" || this.questionNBR == "question14") {
+			this.manyReponse.selectYear(this.year)
+			this.manyReponse.question(this.questionNBR)
+			this.bar = this.manyReponse.bar
+			this.sum = this.manyReponse.sumYear
+			if (this.year == "Toutes les promotions") this.sum = this.manyReponse.sumModule
+		}
+		
 	}
 
 	resetModule() {
-		this.select.nativeElement.value = "Choisir un module"
+		this.select1.nativeElement.value = "Choisir une modalité"
 		this.module = null
 		this.bar = {}
-		
-		if (this.questionNBR == "question9") {
-			this.question9Service.resetModule()
-			this.question(this.questionNBR)
+		this.question9Service.resetModule()
+	}
+
+	resetYear() {
+		this.select2.nativeElement.value = "Choisir une promotion"
+		this.year = null
+		this.bar = {}
+		this.question9Service.resetYear()
+		this.oneModule.resetYear()
+		this.manyReponse.resetYear()
+	}
+
+	resetComment(){
+		this.comment.nativeElement.style.display = 'none'
+		this.textarea.nativeElement.value = ""
+	}
+	
+	addComment(){
+		if (this.comment) {
+			this.comment.nativeElement.style.display = 'block'
+			this.textarea.nativeElement.focus()
+		}
+	}
+
+	closeComment(){
+		if (this.comment) {
+			this.resetComment()
 		}
 	}
 }

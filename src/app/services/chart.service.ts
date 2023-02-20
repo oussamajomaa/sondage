@@ -78,7 +78,7 @@ export class ChartService {
 				subtext: subtext,
 				left: 'center',
 				subtextStyle: {
-					fontSize: 20,
+					fontSize: 24,
 					fontWeight: 'bolder',
 					color: "#A9A9A9"
 				}
@@ -92,6 +92,7 @@ export class ChartService {
 				orient: 'vertical',
 				left: 'right',
 				top: 'top',
+				padding: 30,
 				feature: {
 					mark: { show: true },
 					// dataView: { show: true, readOnly: false },

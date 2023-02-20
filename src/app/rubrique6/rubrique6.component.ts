@@ -11,7 +11,10 @@ import { Question1Service } from '../services/question1.service';
 	styleUrls: ['./rubrique6.component.css']
 })
 export class Rubrique6Component {
-	@ViewChild('select') select: ElementRef;
+	@ViewChild('select1') select1: ElementRef;
+	@ViewChild('select2') select2: ElementRef;
+	@ViewChild('comment') comment: ElementRef;
+	@ViewChild('textarea') textarea: ElementRef;
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
@@ -19,7 +22,8 @@ export class Rubrique6Component {
 	modules = []
 	module: string
 	isModule = false
-
+	sum:number
+	
 	constructor(
 		private question1Service: Question1Service,
 
@@ -31,7 +35,8 @@ export class Rubrique6Component {
 		// if (this.select && this.questionNBR != nbr) this.resetModule()
 		this.questionNBR = nbr
 		this.isChart = true
-		
+		this.sum = null
+		this.resetComment()
 		if (this.questionNBR == "question1"){
 			this.isModule = true
 			this.modules = ["Referentiel", "Synthese", "Contextualisation", "Algorithmes", "Annales"]
@@ -40,26 +45,21 @@ export class Rubrique6Component {
 		}
 	}
 
-	selectModule(e) {
-		this.module = e.target.value
-		console.log(this.module);
-		console.log(this.questionNBR);
-		
-		
-		if (this.questionNBR == "question1") {
-			this.question1Service.selectModule(this.module)
-			this.question(this.questionNBR)
+	resetComment(){
+		this.comment.nativeElement.style.display = 'none'
+		this.textarea.nativeElement.value = ""
+	}
+	
+	addComment(){
+		if (this.comment) {
+			this.comment.nativeElement.style.display = 'block'
+			this.textarea.nativeElement.focus()
 		}
 	}
 
-	resetModule() {
-		this.select.nativeElement.value = "Choisir un module"
-		this.module = null
-		this.bar = {}
-		
-		if (this.questionNBR == "question1") {
-			this.question1Service.resetModule()
-			this.question(this.questionNBR)
+	closeComment(){
+		if (this.comment) {
+			this.resetComment()
 		}
 	}
 }

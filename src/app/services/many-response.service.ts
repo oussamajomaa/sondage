@@ -10,6 +10,7 @@ export class ManyResponseService {
 	bar: EChartsOption = {}
 	pie: EChartsOption = {}
 	module: string
+	year:string
 	title:string
 
 	legend = []
@@ -32,6 +33,8 @@ export class ManyResponseService {
 	DFASM1 = []
 	DFASM2 = []
 
+	sumModule:number
+	sumYear:number
 	constructor(
 		private http: HttpClient,
 		private chartService: ChartService
@@ -48,72 +51,83 @@ export class ManyResponseService {
 		this.http.get('./assets/data/question45.json').subscribe((res: any) => this.data45 = res)
 	}
 
+	getByModuleYear(data:any, oneYear:any){
+		if (!this.year){
+			this.props.map(p => {
+				this.DFGSM2.push(data.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
+				this.DFGSM3.push(data.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
+				this.DFASM1.push(data.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
+				this.DFASM2.push(data.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
+			})
+			this.props.map(l => this.sumModule += data.filter(r => r[l] != "" ).length)
+		}
+		else{
+			this.props.map(p =>	{
+				oneYear.push(data.filter((r: any) => r[p] !== "" && r.annee == this.year).length)
+				this.sumYear += data.filter((r: any) => r[p] !== "" && r.annee == this.year).length
+			})
+		}
+	}
+
 	question(question:string) {
+		this.sumModule = 0
+		this.sumYear = 0
 		this.series = []
 		this.DFGSM2 = []
 		this.DFGSM3 = []
 		this.DFASM1 = []
 		this.DFASM2 = []
+		let oneYear = []
 		// Affecter les titre et les propriétés de chaque question
 		if (question === 'question8'){
 			this.title = "Qu’attendez-vous des enseignements magistraux (en amphi) ? (Plusieurs réponses possibles)"
 			this.legend = ["Contenu du referentiel","annales", "Algorithmes","Cas cliniques","Points importants",]
 			this.props = ["contenu_du_referentiel", "annales","algorithmes","cas_cliniques","points_importants",]
 			//  filtrer selon la promotion
-			this.props.map(p => {
-				this.DFGSM2.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data8, oneYear)
+			// if (!this.year){
+			// 	this.props.map(p => {
+			// 		this.DFGSM2.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
+			// 		this.DFGSM3.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
+			// 		this.DFASM1.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
+			// 		this.DFASM2.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
+			// 	})
+			// 	this.props.map(l => this.sumModule += this.data8.filter(r => r[l] != "" ).length)
+			// }
+			// else{
+			// 	this.props.map(p =>	{
+			// 		oneYear.push(this.data8.filter((r: any) => r[p] !== "" && r.annee == this.year).length)
+			// 		this.sumYear += this.data8.filter((r: any) => r[p] !== "" && r.annee == this.year).length
+			// 	})
+			// }
 		}
 		if (question === 'question13'){
 			this.title = "Que vous ont apporté les ED ? (Plusieurs réponses possibles) "
-			this.legend = ["Rien", "Complement de cours", "Acquisition du raisonnement", "Contextualisation"]
+			this.legend = ["Rien", "Complement\nde cours", "Acquisition\ndu raisonnement", "Contextualisation"]
 			this.props = ["rien", "complement_de_cours", "acquisition_du_raisonnement", "contextualisation"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data13.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data13.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data13.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data13.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data13, oneYear)
 		}
 		if (question === 'question14'){
 			this.title = "Qu’attendez-vous des ED ? (Plusieurs réponses possibles)"
-			this.legend = ["Points importants et explications", "Cas cliniques", "Questions interactives", "Algorithmes","Entrainements docimologiques"]
+			this.legend = ["Points importants\net explications", "Cas cliniques", "Questions interactives", "Algorithmes","Entrainements\ndocimologiques"]
 			this.props = ["points_importants_et_Explications", "cas_cliniques", "questions_interactives", "algorithmes","entrainements_docimologiques"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data14.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data14.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data14.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data14.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data14, oneYear)
 		}
 		if (question === 'question16'){
 			this.title = "Le maintien d’un enseignement magistral (en amphi) pour transmettre le savoir de la discipline : (Plusieurs réponses possibles)"
 			this.legend = ["Sans\njustification", "Discipline\ndependant", "Ressources\nexterieures\ndependant", "Auto-apprentissage\ndependant", "Enseignant\ndependant"]
 			this.props = ["sans_justification", "discipline_dependant", "ressources_exterieures_dependant", "auto-apprentissage_dependant", "enseignant_dependant"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data16.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data16.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data16.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data16.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data16, oneYear)
 		}
 		if (question === 'question18'){
 			this.title = "Selon vous, l’adoption d'un auto-apprentissage mettant à votre disposition des ressources en ligne (pédagogie inversée) : (Plusieurs réponses possibles)"
-			this.legend = ["Non souhaitable", "Discipline dependant", "Adaptable\ntoutes disciplines", "Ressources dependant", "Necessite seances\ninteractives"]
+			this.legend = ["Non souhaitable", "Discipline dependant", "Adaptable\ntoutes disciplines", "Ressources\ndependant", "Necessite seances\ninteractives"]
 			this.props = ["non_souhaitable", "discipline_dependant", "adaptable_toutes_disciplines", "ressources_dependant", "necessite_seances_interactives"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data18.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data18.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data18.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data18.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data18, oneYear)
 		}
 
 		if (question === 'question26'){
@@ -121,12 +135,7 @@ export class ManyResponseService {
 			this.legend = ["Faciles", "Difficiles", "En adéquation\navec les ressources\ndisponibles", "Sans adequation\navecressources", "utiles", "Sans avis"]
 			this.props = ["Faciles", "Difficiles", "adequation_avec_ressources", "sans_adequation_avec_ressources", "utiles", "Sans avis"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data26.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data26.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data26.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data26.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data26, oneYear)
 		}
 
 		if (question === 'question27'){
@@ -134,12 +143,7 @@ export class ManyResponseService {
 			this.legend = ["Près fin\nenseignement", "À distance\nenseignement", "Séance\nrévision avant", "Sans avis"]
 			this.props = ["pres_fin_enseignement", "a_distance_enseignement", "séance_révision_avant", "sans_avis"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data27.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data27.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data27.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data27.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data27, oneYear)
 		}
 		let seriePie = []
 		if (question === 'question44'){
@@ -237,14 +241,7 @@ export class ManyResponseService {
 				"Biologie_medicale",
 			]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data44.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data44.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data44.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data44.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-				// Une solutione alternative pour la question 44
-				seriePie.push({name:p, value: this.data44.filter((r: any) => r[p] !== "").length})
-			})
+			this.getByModuleYear(this.data44, oneYear)
 		}
 
 		if (question === 'question45'){
@@ -252,21 +249,26 @@ export class ManyResponseService {
 			this.legend = ["Commentaires libres"]
 			this.props = ["commentaires_libres"]
 			
-			this.props.map(p => {
-				this.DFGSM2.push(this.data45.filter((r: any) => r[p] !== "" && r.annee == "DFGSM2").length)
-				this.DFGSM3.push(this.data45.filter((r: any) => r[p] !== "" && r.annee == "DFGSM3").length)
-				this.DFASM1.push(this.data45.filter((r: any) => r[p] !== "" && r.annee == "DFASM1").length)
-				this.DFASM2.push(this.data45.filter((r: any) => r[p] !== "" && r.annee == "DFASM2").length)
-			})
+			this.getByModuleYear(this.data45, oneYear)
 		}
 
 		// Construire le tableau series data du graphique
-		this.series = this.createSeries([
-			{ name: "DFGSM2", data: this.DFGSM2 },
-			{ name: "DFGSM3", data: this.DFGSM3 },
-			{ name: "DFASM1", data: this.DFASM1 },
-			{ name: "DFASM2", data: this.DFASM2 }
-		])
+		if (!this.year){
+			this.xaxis = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
+			this.series = this.createSeries([
+				{ name: "DFGSM2", data: this.DFGSM2 },
+				{ name: "DFGSM3", data: this.DFGSM3 },
+				{ name: "DFASM1", data: this.DFASM1 },
+				{ name: "DFASM2", data: this.DFASM2 }
+			])
+		}
+		else {
+			this.xaxis = [this.year]
+			this.series = this.createSeries([
+				{ name: this.year, data: oneYear },
+			])
+		}
+
 		if (question === 'question45'){
 			this.series = this.series.sort((a,b) => {
 				if (a.data[0] > b.data[0]) return -1
@@ -274,11 +276,19 @@ export class ManyResponseService {
 				return 0
 			})
 		} 
-		console.log(this.series);
 		
 		// Construire le graphique
 		this.bar = this.chartService.bar(this.title, "", this.xaxis, this.legend, this.series)
 		this.pie = this.chartService.pie("", this.title, "", seriePie)
+	}
+
+	selectYear(year) {
+		if (year == 'Toutes les promotions') year = null
+		this.year = year
+	}
+
+	resetYear(){
+		this.year = null
 	}
 
 	// Méthode pour construire le graphique
@@ -288,6 +298,7 @@ export class ManyResponseService {
 			series.push({
 				name: val.name,
 				type: 'bar',
+				stack: 'total',
 				// label: {
 				// 	show: true,
 				// },

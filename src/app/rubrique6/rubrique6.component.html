@@ -1,7 +1,6 @@
-<div class="d-flex" >
-
+<div class="d-flex body">
     <div class="side">
-        <div *ngFor="let q of questions"  class="d-flex flex-column justify-content-center">
+        <div *ngFor="let q of questions" >
             <button 
                     class="btn btn-secondary btn-md m-1" 
                     [ngClass]="{'btn-danger':questionNBR ===q}" 
@@ -11,14 +10,33 @@
     </div>
     
     <div *ngIf="isChart" class="content">
-        <div class="d-flex justify-content-between">
-            <select #select class="form-select" (change)="selectModule($event)" *ngIf="isChart && isModule">
-                <option selected disabled>Choisir un module</option>
+
+        <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
+        <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
+
+        <!-- Select block -->
+        <div class="d-flex  mb-3 content-select"  [ngStyle]="{'visibility':isModule ? 'visible':'hidden'}">
+            <select #select1 class="form-select"  >
+                <option selected disabled>Choisir une modalité</option>
                 <option *ngFor="let module of modules">{{module}}</option>
             </select>
+
+            <select #select2 class="form-select"  >
+                <option selected disabled>Choisir une promotion</option>
+                
+            </select>
         </div>
+       
+
         <div echarts [options]="bar" style="height: 660px;"></div>
     </div>
+
+     <!-- Block comment box position absolute -->
+     <div #comment class="comment">
+        <textarea #textarea  id="" cols="100" rows="" class=""></textarea>
+        <button class="btn btn-danger btn-sm close-comment" (click)="closeComment()">x</button>
+    </div>
+    
     
     <div *ngIf="!isChart " class="lorem">
         <div>
@@ -38,4 +56,3 @@
     </div>
     
 </div>
-

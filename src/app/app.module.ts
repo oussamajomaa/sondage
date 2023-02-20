@@ -19,7 +19,7 @@ import { Rubrique7Component } from './rubrique7/rubrique7.component';
 import { Rubrique8Component } from './rubrique8/rubrique8.component';
 import { Rubrique1Component } from './rubrique1/rubrique1.component';
 import { LoginComponent } from './login/login.component';
-
+import { MatTooltipModule } from '@angular/material/tooltip';
 
 @NgModule({
 	declarations: [
@@ -34,13 +34,14 @@ import { LoginComponent } from './login/login.component';
 		Rubrique7Component,
 		Rubrique8Component,
 		Rubrique1Component,
-  LoginComponent,
+		LoginComponent,
 	],
 	imports: [
 		BrowserModule,
 		AppRoutingModule,
 		HttpClientModule,
 		FormsModule,
+		MatTooltipModule,
 		NgxEchartsModule.forRoot({
 			echarts: () => import('echarts'),
 		}),
