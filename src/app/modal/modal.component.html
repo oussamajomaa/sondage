@@ -1,0 +1,17 @@
+<!-- Modal -->
+<div class="enonce" tabindex="-1" role="dialog" [ngStyle]="{'display':display}" >
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5>Énoncé de la {{questionNBR}}</h5>
+                
+            </div>
+           <img src="assets/enonce/{{questionNBR}}.png"  alt="" >
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-danger btn-sm" (click)="onCloseHandled()">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="width: 100vw; height:100vh; position:fixed;top:0;left:0; background:rgba(128, 128, 128, 0.541); z-index:119" [ngStyle]="{'display':display}"></div>
+<!-- End Modal -->

@@ -1,11 +1,20 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
 import { EChartsOption } from 'echarts';
 import { Question1Service } from '../services/question1.service';
+import {trigger, style, animate, transition} from '@angular/animations';
 
 @Component({
 	selector: 'app-rubrique1',
 	templateUrl: './rubrique1.component.html',
-	styleUrls: ['./rubrique1.component.css']
+	styleUrls: ['./rubrique1.component.css'],
+	animations: [
+		trigger('fade', [ 
+		  transition('void => *', [
+			style({ opacity: 0 }), 
+			animate(2000, style({opacity: 1}))
+		  ]) 
+		])
+	  ]
 })
 export class Rubrique1Component {
 	@ViewChild('select1') select1: ElementRef;
@@ -20,24 +29,21 @@ export class Rubrique1Component {
 	modules = ["Referentiel", "Synthese", "Contextualisation", "Algorithmes", "Annales"]
 	module: string
 	isModule = false
-	promotions = ["DFGSM2","DFGSM3","DFASM1","DFASM2"]
-	sum:number
-	
-	constructor(private question1Service: Question1Service) { 
-		this.question1Service.resetModule()		
-	}
-
-	// question(nbr) {
-	// 	this.questionNBR = nbr
-	// 	this.isChart = true
+	promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
+	sum: number
+	display= "none"
+	constructor(private question1Service: Question1Service) {
+		this.question1Service.resetModule()
 		
-	// 	if (this.questionNBR == "question1"){
-	// 		this.isModule = true
-	// 		this.modules = ["Referentiel", "Synthese", "Contextualisation", "Algorithmes", "Annales"]
-	// 		this.question1Service.question()
-	// 		this.bar = this.question1Service.bar
-	// 	}
-	// }
+	}
+	
+	
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
+	}
 
 	selectModule(e) {
 		this.comment.nativeElement.style.display = 'none'
@@ -65,14 +71,14 @@ export class Rubrique1Component {
 		this.sum = this.question1Service.sumYear
 	}
 
-	addComment(){
+	addComment() {
 		if (this.comment) {
 			this.comment.nativeElement.style.display = 'block'
 			this.textarea.nativeElement.focus()
 		}
 	}
 
-	closeComment(){
+	closeComment() {
 		if (this.comment) {
 			this.comment.nativeElement.style.display = 'none'
 			this.textarea.nativeElement.value = ""
@@ -83,7 +89,7 @@ export class Rubrique1Component {
 	// 	this.select.nativeElement.value = "Choisir un module"
 	// 	this.module = null
 	// 	this.bar = {}
-		
+
 	// 	if (this.questionNBR == "question1") {
 	// 		this.question1Service.resetModule()
 	// 		this.question(this.questionNBR)

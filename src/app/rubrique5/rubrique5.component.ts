@@ -16,8 +16,8 @@ export class Rubrique5Component {
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
-	// questions = ["question24", "question25", "question26", "question27"]
-	questions = ["question25", "question26"]
+	questions = ["question24", "question25", "question26", "question27"]
+	// questions = ["question25", "question26"]
 	modules = []
 	module: string
 	year:string
@@ -25,6 +25,10 @@ export class Rubrique5Component {
 	promotions = []
 	sum:number
 
+	textCommentaire: string
+	display = "none";
+	commentaire = "none"
+	commentaires:any = []
 	constructor(
 		private oneModule: OneModuleService,
 		private manyReponse: ManyResponseService,
@@ -60,6 +64,21 @@ export class Rubrique5Component {
 			this.bar = this.manyReponse.bar
 			this.sum = this.manyReponse.sumModule
 		}
+	}
+
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
+	}
+
+	onComment() {
+		this.commentaire = "block";
+	}
+
+	onCloseComment() {
+		this.commentaire = "none";
 	}
 
 	selectYear(e) {

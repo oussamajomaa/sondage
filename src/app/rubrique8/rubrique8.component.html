@@ -14,8 +14,12 @@
         <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
         <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
         
+        <!-- Modal Énoncé -->
+        <app-modal [questionNBR]="questionNBR" [display]="display" (closeModal)="onCloseHandled()"></app-modal>
+
         <!-- Select block -->
         <div class="d-flex  mb-3 content-select"  >
+            <button class="btn btn-primary btn-modal" (click)="openModal()">Énoncé</button>
             <select #select1 class="form-select"  *ngIf="isModule">
                 <option selected disabled>Choisir une modalité</option>
                 
@@ -28,7 +32,7 @@
         </div>
        
 
-        <div echarts [options]="bar" style="height: 660px;"></div>
+        <div echarts [options]="bar" class="echarts"></div>
     </div>
 
      <!-- Block comment box position absolute -->

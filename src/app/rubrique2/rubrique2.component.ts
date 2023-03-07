@@ -3,11 +3,20 @@ import { Question2Service } from '../services/question2.service';
 import { EChartsOption } from 'echarts';
 import { Question3Service } from '../services/question3.service';
 import { OneModuleService } from '../services/one-module.service';
+import {trigger, style, animate, transition} from '@angular/animations';
 
 @Component({
 	selector: 'app-rubrique2',
 	templateUrl: './rubrique2.component.html',
-	styleUrls: ['./rubrique2.component.css']
+	styleUrls: ['./rubrique2.component.css'],
+	animations: [
+		trigger('fade', [ 
+		  transition('void => *', [
+			style({ opacity: 0 }), 
+			animate(2000, style({opacity: 1}))
+		  ]) 
+		])
+	  ]
 })
 export class Rubrique2Component {
 	@ViewChild('select1') select1: ElementRef;
@@ -18,15 +27,15 @@ export class Rubrique2Component {
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
-	// questions = ["question2", "question3", "question4", "question5"]
-	questions = ["question2", "question4"]	
+	questions = ["question2", "question3", "question4", "question5"]
+	// questions = ["question2", "question4"]	
 	
 	
 	modules = []
 	module: string
 	year:string
 	isModule = false
-	promotions = []
+	promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 	sum:number
 	dataTitle = [
 		// "Quelle est votre appréciation sur les divers types de ressources/supports ?",
@@ -57,13 +66,11 @@ export class Rubrique2Component {
 		
 		if (this.questionNBR == "question2") {
 			this.isModule = true
-			this.promotions = ["DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.modules = ["Ouvrages nationaux", "Polycopie local", "Roneo etudiants", "Diaporama du cours", "Video des cours", "Capsules"]
 		}
 
 		if (this.questionNBR == "question3") {
 			this.isModule = true
-			this.promotions = ["DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.modules = [
 				"Referentiel", "Polycopie enseignants", "Roneo etudiants", "Diaporama du cours",
 				"Supports conférences privées", "Enregistrement des cours", "Capsules",
@@ -72,13 +79,20 @@ export class Rubrique2Component {
 			
 		}
 		if (this.questionNBR == "question4" || this.questionNBR == "question5"){
-			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.isModule = false
 			this.oneModule.question(this.questionNBR)
 			this.bar = this.oneModule.bar
 			this.sum = this.oneModule.sumModule
 		}	
 		
+	}
+
+	display = "none";
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
 	}
 
 	selectModule(e) {

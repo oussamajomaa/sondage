@@ -11,7 +11,7 @@ export class LoginComponent {
 	password: string
 	hide = true;
 	token: string
-	constructor(public auth: AuthService) {console.log(auth.authState);
+	constructor(public auth: AuthService) {
 	 }
 
 	login() {

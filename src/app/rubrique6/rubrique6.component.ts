@@ -1,9 +1,8 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
 import { EChartsOption } from 'echarts';
-import { OneModuleService } from '../services/one-module.service';
-import { Question9Service } from '../services/question9.service';
-import { ManyResponseService } from '../services/many-response.service';
-import { Question1Service } from '../services/question1.service';
+import { OnePromotionService } from '../services/one-promotion.service';
+import { HttpClient } from '@angular/common/http';
+
 
 @Component({
 	selector: 'app-rubrique6',
@@ -21,28 +20,43 @@ export class Rubrique6Component {
 	questions = ["question28", "question29", "question30"]
 	modules = []
 	module: string
+	year:string
 	isModule = false
 	sum:number
+	promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 	
 	constructor(
-		private question1Service: Question1Service,
+		private onePromotion: OnePromotionService,
 
 	) { 
-		this.question1Service.resetModule()		
+			
 	}
 
 	question(nbr) {
-		// if (this.select && this.questionNBR != nbr) this.resetModule()
-		this.questionNBR = nbr
 		this.isChart = true
 		this.sum = null
-		this.resetComment()
-		if (this.questionNBR == "question1"){
-			this.isModule = true
-			this.modules = ["Referentiel", "Synthese", "Contextualisation", "Algorithmes", "Annales"]
-			this.question1Service.question()
-			this.bar = this.question1Service.bar
+		
+		if (this.select2 && this.questionNBR != nbr) this.resetYear()
+
+		if (this.questionNBR != nbr) {
+			this.bar = {}
 		}
+		this.questionNBR = nbr
+
+		this.resetComment()
+		this.isModule = false
+
+		if (this.questionNBR == "question28") {
+
+		}
+	}
+
+	display = "none";
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
 	}
 
 	resetComment(){
@@ -61,5 +75,29 @@ export class Rubrique6Component {
 		if (this.comment) {
 			this.resetComment()
 		}
+	}
+
+	selectYear(e) {
+		this.resetComment()
+		this.year = e.target.value
+		this.sum = null
+		if (this.questionNBR == "question28" || this.questionNBR == "question29" || this.questionNBR == "question30") {
+			this.onePromotion.selectYear(this.year)
+			this.onePromotion.question(this.questionNBR)
+			this.bar = this.onePromotion.bar
+			this.sum = this.onePromotion.sumYear
+			if (this.year == "Toutes les promotions") {
+				this.sum = this.onePromotion.sumModule
+				this.year = null
+			}
+		}
+
+		
+	}
+
+	resetYear() {
+		this.select2.nativeElement.value = "Choisir une promotion"
+		this.year = null
+		this.bar = {}
 	}
 }

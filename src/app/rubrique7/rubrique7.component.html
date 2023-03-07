@@ -19,8 +19,8 @@
         
     </div>
     <div *ngIf="isChart" class="content">
-        <div echarts [options]="scatter" style="height: 660px;" >
-        </div>
+        
+        <div echarts [options]="scatter" class="echarts"></div>
     </div>
     <div *ngIf="!isChart" class="lorem">
         <div>

@@ -9,15 +9,15 @@ import { EChartsOption } from 'echarts';
 export class Question9Service {
 	bar: EChartsOption = {}
 	module: string
-	year:string
+	year: string
 	title = "Quelles sont, selon vous, les raisons de la faible participation aux enseignements magistraux ?"
 
-	xaxis = ['Pas du tout','Très peu','Modérément','Totalement']
+	xaxis = ['Pas du tout', 'Très peu', 'Modérément', 'Totalement']
 	legend = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
 
 	series: any
-	data: any 			= []
-	arr 				= []
+	data: any = []
+	arr = []
 
 	DFGSM2 = []
 	DFGSM3 = []
@@ -31,8 +31,12 @@ export class Question9Service {
 	rester_concentre_plus_2_heures = []
 	stage_journee_complete = []
 
-	sumModule:number
-	sumYear:number
+	pas_du_tout = []
+	tres_peu = []
+	moderement = []
+	totalement = []
+	sumModule: number
+	sumYear: number
 
 	constructor(
 		private http: HttpClient,
@@ -44,58 +48,47 @@ export class Question9Service {
 			})
 	}
 
-	getByModule(res = [],val: string) {
-		this.arr = []
+	getByModule(res = [], val: string) {
+		this.legend = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
+		this.xaxis = ['Pas du tout', 'Très peu', 'Modérément', 'Totalement']
 
-		if (this.module == "Nombre heures trop important"){
+		this.arr = []
+		if (this.module == "Nombre heures trop important") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.nombre_heures_trop_important == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.nombre_heures_trop_important != "empty").length
 		}
-		if (this.module == "Faible valeur ajoutée"){
+		if (this.module == "Faible valeur ajoutée") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.faible_valeur_ajoutee == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.faible_valeur_ajoutee != "empty").length
 		}
-		if (this.module == "Perte temps transports"){
+		if (this.module == "Perte temps transports") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.perte_temps_transports == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.perte_temps_transports != "empty").length
 		}
-		if (this.module == "Accès ressources internet"){
+		if (this.module == "Accès ressources internet") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.acces_ressources_internet == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.acces_ressources_internet != "empty").length
 		}
-		if (this.module == "Rester concentre plus 2 heures"){
+		if (this.module == "Rester concentre plus 2 heures") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.rester_concentre_plus_2_heures == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.rester_concentre_plus_2_heures != "empty").length
 		}
-		if (this.module == "Stage journée complète"){
+		if (this.module == "Stage journée complète") {
 			this.xaxis.map(x => this.arr.push(res.filter(r => r.stage_journee_complete == x && r.annee == val).length))
 			this.sumModule = res.filter(r => r.stage_journee_complete != "empty").length
 		}
-		
 		return this.arr
 	}
 
-	getByYear(res = [],val: string) {
+	getByYear(res = [], val: string) {
 		this.sumYear = 0
-		this.legend = ["nombre_heures_trop_important", "faible_valeur_ajoutee", "perte_temps_transports", "acces_ressources_internet", "rester_concentre_plus_2_heures", "stage_journee_complete"]
+		this.xaxis = ["nombre_heures_trop_important", "faible_valeur_ajoutee", "perte_temps_transports", "acces_ressources_internet", "rester_concentre_plus_2_heures", "stage_journee_complete"]
+		this.legend = ['Pas du tout', 'Très peu', 'Modérément', 'Totalement']
 		this.arr = []
-		if (this.year == "DFGSM2"){
-			this.xaxis.map(x => this.arr.push(res.filter(r => r[val] == x && r.annee == "DFGSM2").length))
-			this.legend.map(l => this.sumYear += res.filter(r => r[l] != "empty" && r.annee == "DFGSM2").length)
-		}
-		if (this.year == "DFGSM3"){
-			this.xaxis.map(x => this.arr.push(res.filter(r => r[val] == x && r.annee == "DFGSM3").length))
-			this.legend.map(l => this.sumYear += res.filter(r => r[l] != "empty" && r.annee == "DFGSM3").length)
-		}
-		if (this.year == "DFASM1"){
-			this.xaxis.map(x => this.arr.push(res.filter(r => r[val] == x && r.annee == "DFASM1").length))
-			this.legend.map(l => this.sumYear += res.filter(r => r[l] != "empty" && r.annee == "DFASM1").length)
-		}
-		if (this.year == "DFASM2"){
-			this.xaxis.map(x => this.arr.push(res.filter(r => r[val] == x && r.annee == "DFASM2").length))
-			this.legend.map(l => this.sumYear += res.filter(r => r[l] != "empty" && r.annee == "DFASM2").length)
-		}
-		
+
+		this.xaxis.map(x => this.arr.push(res.filter(r => r[x] == val && r.annee == this.year).length))
+		this.xaxis.map(l => this.sumYear += res.filter(r => r[l] != "empty" && r.annee == this.year).length)
+
 		return this.arr
 	}
 
@@ -105,56 +98,61 @@ export class Question9Service {
 		this.DFASM1 = this.getByModule(this.data, "DFASM1")
 		this.DFASM2 = this.getByModule(this.data, "DFASM2")
 
-		this.nombre_heures_trop_important = this.getByYear(this.data, "nombre_heures_trop_important")
-		this.faible_valeur_ajoutee = this.getByYear(this.data, "faible_valeur_ajoutee")
-		this.perte_temps_transports = this.getByYear(this.data, "perte_temps_transports")
-		this.acces_ressources_internet = this.getByYear(this.data, "acces_ressources_internet")
-		this.rester_concentre_plus_2_heures = this.getByYear(this.data, "rester_concentre_plus_2_heures")
-		this.stage_journee_complete = this.getByYear(this.data, "stage_journee_complete")
+		this.pas_du_tout = this.getByYear(this.data, "Pas du tout")
+		this.tres_peu = this.getByYear(this.data, "Très peu")
+		this.moderement = this.getByYear(this.data, "Modérément")
+		this.totalement = this.getByYear(this.data, "Totalement")
 
-		if (this.module){
+		if (this.module) {
+			this.legend = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
+			this.xaxis = ['Pas du tout', 'Très peu', 'Modérément', 'Totalement']
+
 			this.series = this.createSeries([
 				{ name: "DFGSM2", data: this.DFGSM2 },
 				{ name: "DFGSM3", data: this.DFGSM3 },
 				{ name: "DFASM1", data: this.DFASM1 },
 				{ name: "DFASM2", data: this.DFASM2 }
 			])
-			this.legend = ["DFGSM2", "DFGSM3", "DFASM1", "DFASM2"]
-			this.bar = this.chartService.bar(this.title,this.module, this.legend, this.xaxis, this.series)
+			this.bar = this.chartService.bar(this.title, this.module, this.legend, this.xaxis, this.series)
 		}
-		if (this.year){
+
+		if (this.year) {
+			this.xaxis = [
+				"Faible\nvaleur ajoutée",
+				"Stage\njournée complète",
+				"Nombre heures\ntrop important",
+				"Accès\nessources internet",
+				"Rester concentre\nplus 2 heures",
+				"Perte\ntemps transports",
+			]
+			this.legend = ['Totalement','Modérément','Très peu','Pas du tout' ]
+
 			this.series = this.createSeries([
-				{ name: "nombre heures trop important", data: this.nombre_heures_trop_important },
-				{ name: "faible valeur ajoutée", data: this.faible_valeur_ajoutee },
-				{ name: "perte temps transports", data: this.perte_temps_transports },
-				{ name: "accès ressources internet", data: this.acces_ressources_internet },
-				{ name: "rester concentre plus 2 heures", data: this.rester_concentre_plus_2_heures },
-				{ name: "stage journée complète", data: this.stage_journee_complete }
+				{ name: "Totalement", data: this.totalement },
+				{ name: "Modérément", data: this.moderement },
+				{ name: "Très peu", data: this.tres_peu },
+				{ name: "Pas du tout", data: this.pas_du_tout },
 			])
-			this.legend = [
-				"nombre heures trop important", 
-				"faible valeur ajoutée", 
-				"perte temps transports", 
-				"accès ressources internet", 
-				"rester concentre plus 2 heures", 
-				"stage journée complète"]
-			this.bar = this.chartService.bar(this.title,this.year, this.legend, this.xaxis, this.series)
+			this.bar = this.chartService.bar(this.title, this.year, this.legend, this.xaxis, this.series)
+			if (this.year == "Toutes les promotions") {
+				this.bar = {}
+			}
 		}
 	}
 
-	selectModule(module){
+	selectModule(module) {
 		this.module = module
 	}
 
-	selectYear(year){
+	selectYear(year) {
 		this.year = year
 	}
 
-	resetModule(){
+	resetModule() {
 		this.module = null
 	}
 
-	resetYear(){
+	resetYear() {
 		this.year = null
 	}
 

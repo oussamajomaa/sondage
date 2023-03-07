@@ -16,9 +16,10 @@ export class Rubrique8Component {
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
-	// questions = ["question36", "question37", "question38", "question39", "question40", "question41", "question42", "question43", "question44", "question45"]
-	questions = ["question36", "question44"]
-	promotions = []
+	questions = ["question36", "question37", "question38", "question39", "question40", "question41", "question42", "question43"]
+	// questions = ["question36", "question37", "question38","question42", "question43"]
+	// questions = ["question36", "question44"]
+	promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 	year:string
 	sum:number
 	isModule = false
@@ -40,15 +41,13 @@ export class Rubrique8Component {
 		}
 		this.questionNBR = nbr
 		this.resetComment()
-		if (this.questionNBR == "question36" || this.questionNBR == "question37" || this.questionNBR == "question39" || this.questionNBR == "question41" || this.questionNBR == "question42" || this.questionNBR == "question43") {
-			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
+		if (this.questionNBR == "question36" || this.questionNBR == "question37" || this.questionNBR == "question39" || this.questionNBR == "question40" || this.questionNBR == "question41" || this.questionNBR == "question42") {
 			this.isModule = false
 			this.oneModule.question(this.questionNBR)
 			this.bar = this.oneModule.bar
 			this.sum = this.oneModule.sumModule
 		}
-		if (this.questionNBR == "question44" || this.questionNBR == "question45") {
-			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
+		if (this.questionNBR == "question43") {
 			this.isModule = false
 			this.manyReponse.question(this.questionNBR)
 			this.bar = this.manyReponse.bar
@@ -60,19 +59,32 @@ export class Rubrique8Component {
 		// }
 	}
 
+	display = "none";
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
+	}
+	
 	selectYear(e) {
 		this.resetComment()
 		this.year = e.target.value
 		this.sum = null
 
-		if (this.questionNBR == "question36" || this.questionNBR == "question37" || this.questionNBR == "question39" || this.questionNBR == "question41" || this.questionNBR == "question42" || this.questionNBR == "question43"){
+		if (this.questionNBR == "question36" || this.questionNBR == "question37" || this.questionNBR == "question38" || this.questionNBR == "question39" || this.questionNBR == "question40" || this.questionNBR == "question41" || this.questionNBR == "question42"){
 			this.oneModule.selectYear(this.year)
 			this.oneModule.question(this.questionNBR)
 			this.bar = this.oneModule.bar
 			this.sum = this.oneModule.sumYear
 			if (this.year == "Toutes les promotions") this.sum = this.oneModule.sumModule
 		}
-		if (this.questionNBR == "question44" || this.questionNBR == "question45"){
+
+		if (this.questionNBR == "question38" &&  this.year == "Toutes les promotions") {
+			this.bar = {}
+			this.sum = null
+		}
+		if (this.questionNBR == "question43"){
 			this.manyReponse.selectYear(this.year)
 			this.manyReponse.question(this.questionNBR)
 			this.bar = this.manyReponse.bar

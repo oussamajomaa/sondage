@@ -20,6 +20,10 @@ import { Rubrique8Component } from './rubrique8/rubrique8.component';
 import { Rubrique1Component } from './rubrique1/rubrique1.component';
 import { LoginComponent } from './login/login.component';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { ModalComponent } from './modal/modal.component';
+import { CommentComponent } from './comment/comment.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
 
 @NgModule({
 	declarations: [
@@ -35,6 +39,8 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 		Rubrique8Component,
 		Rubrique1Component,
 		LoginComponent,
+  ModalComponent,
+  CommentComponent,
 	],
 	imports: [
 		BrowserModule,
@@ -46,6 +52,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 			echarts: () => import('echarts'),
 		}),
 		NgbModule,
+		BrowserAnimationsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]

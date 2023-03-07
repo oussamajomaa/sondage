@@ -2,6 +2,9 @@ import { Component, ElementRef, ViewChild } from '@angular/core';
 import { EChartsOption } from 'echarts';
 import { OneModuleService } from '../services/one-module.service';
 import { ManyResponseService } from '../services/many-response.service';
+import { OnePromotionService } from '../services/one-promotion.service';
+import { HttpClient } from '@angular/common/http';
+
 
 @Component({
   selector: 'app-rubrique4',
@@ -16,28 +19,40 @@ export class Rubrique4Component {
 	bar: EChartsOption = {}
 	isChart = false
 	questionNBR: string
-	// questions = [
-	// 	"question16", "question17", "question18", "question19",
-	// 	"question20", "question21", "question22", "question23"
-	// ]
 	questions = [
-		"question18", 
-		"question20", 
+		"question16", "question17", "question18", "question19",
+		"question20", "question21", "question22", "question23"
 	]
-	promotions = []
+	// questions = [
+	// 	"question16", "question17",
+	// 	"question18", 
+	// 	"question20", 
+	// ]
+	promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 	modules = []
 	module: string
 	year:string
 	isModule = false
+	isYear = false
 	sum:number
+
+	textCommentaire: string
+	display = "none";
+	commentaire = "none"
+	commentaires:any = []
+
 	
 	constructor(
 		private oneModule: OneModuleService,
 		private manyReponse: ManyResponseService,
+		private onePromotion: OnePromotionService,
+		private http:HttpClient
 
 	) { 
 		this.oneModule.resetYear()	
 		this.manyReponse.resetYear()
+		http.get('assets/data/commentaire.json').subscribe(res => this.commentaires = res)
+
 	}
 
 	question(nbr) {
@@ -52,45 +67,50 @@ export class Rubrique4Component {
 		this.questionNBR = nbr
 		this.resetComment()
 		if (this.questionNBR == "question20" || this.questionNBR == "question21" || this.questionNBR == "question22" || this.questionNBR == "question23"){
-			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.isModule = false
 			this.oneModule.question(this.questionNBR)
 			this.bar = this.oneModule.bar
 			this.sum = this.oneModule.sumModule
+			this.isYear = false
 		}
 		
 		if (this.questionNBR == "question16" || this.questionNBR == "question18") {
-			this.promotions = ["Toutes les promotions","DFGSM2","DFGSM3","DFASM1","DFASM2"]
 			this.isModule = false
 			this.manyReponse.question(this.questionNBR)
 			this.bar = this.manyReponse.bar
 			this.sum = this.manyReponse.sumModule
+			this.isYear = false
+		}
+
+		if (this.questionNBR == "question17" || this.questionNBR == "question19"){
+			this.isYear = true
+			// this.isChart = false
+			// this.isModule = false
+			// this.onePromotion.question(this.questionNBR)
+			// this.bar = this.manyReponse.bar
+
 		}
 	}
 
-	// selectModule(e) {
-	// 	this.resetComment()
-	// 	this.resetYear()
-	// 	this.module = e.target.value
-	// 	this.sum = null
-		
-	// 	if (this.questionNBR == "question2") {
-	// 		this.question2Service.selectModule(this.module)
-	// 		this.question2Service.question()
-	// 		this.bar = this.question2Service.bar
-	// 		this.sum = this.question2Service.sumModule
-	// 	}
-	// 	if (this.questionNBR == "question3") {
-	// 		this.question3Service.selectModule(this.module)
-	// 		this.question3Service.question()
-	// 		this.bar = this.question3Service.bar
-	// 		this.sum = this.question3Service.sumModule
-	// 	}
-	// }
+	openModal() {
+		this.display = "block";
+	}
+	onCloseHandled() {
+		this.display = "none";
+	}
 
+	onComment() {
+		this.commentaire = "block";
+	}
+
+	onCloseComment() {
+		this.commentaire = "none";
+	}
+	
 	selectYear(e) {
 		this.resetComment()
 		this.year = e.target.value
+		let comments = []
 		this.sum = null
 
 		if (this.questionNBR == "question20" || this.questionNBR == "question21" || this.questionNBR == "question22" || this.questionNBR == "question23"){
@@ -101,6 +121,15 @@ export class Rubrique4Component {
 			if (this.year == "Toutes les promotions") this.sum = this.oneModule.sumModule
 		}
 
+		if (this.questionNBR == "question17" || this.questionNBR == "question19"){
+			this.onePromotion.selectYear(this.year)
+			this.onePromotion.question(this.questionNBR)
+			this.bar = this.onePromotion.bar
+			this.sum = this.onePromotion.sumYear
+			this.isYear = false
+			if (this.year == "Toutes les promotions") this.sum = this.onePromotion.sumModule
+		}
+
 		if (this.questionNBR == "question16" || this.questionNBR == "question18"){
 			this.manyReponse.selectYear(this.year)
 			this.manyReponse.question(this.questionNBR)
@@ -108,15 +137,14 @@ export class Rubrique4Component {
 			this.sum = this.manyReponse.sumYear
 			if (this.year == "Toutes les promotions") this.sum = this.manyReponse.sumModule
 		}
-	}
 
-	// resetModule() {
-	// 	this.select1.nativeElement.value = "Choisir une modalité"
-	// 	this.module = null
-	// 	this.bar = {}
-	// 	this.question2Service.resetModule()
-	// 	this.question3Service.resetModule()
-	// }
+		if (this.questionNBR == "question16" || this.questionNBR == "question18"){
+			comments = this.commentaires.filter(item => item.question === this.questionNBR)[0].promotion
+			comments.filter(com => {
+				if (com.year === this.year) this.textCommentaire = com.text
+			})
+		}
+	}
 
 	resetYear() {
 		this.select2.nativeElement.value = "Choisir une promotion"

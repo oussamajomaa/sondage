@@ -86,6 +86,7 @@ export class ChartService {
 			tooltip: {
 				trigger: 'item',
 				formatter: '{a} : {c}'
+				
 			},
 			toolbox: {
 				show: true,
@@ -103,9 +104,10 @@ export class ChartService {
 			},
 			legend: {
 				data: legend,
-				orient: 'vertical',
-				right: 10,
-				top: 'center'
+				// orient: 'vertical',
+				// right: 10,
+				// top: 'center'
+				bottom:"bottom"
 			},
 			yAxis: {
 				type: 'category',
@@ -129,18 +131,18 @@ export class ChartService {
 		return this.optionBar
 	}
 
-	barH(title: string, subtext:string,legend: any, xAxis: any, series: any) {
-		this.optionBarH = {
+	barH(title: string,subtext:string, legend: any, xAxis: any, series: any) {
+		this.optionBar = {
 			title: {
 				text: title,
+
 				subtext: subtext,
 				left: 'center',
 				subtextStyle: {
-					fontSize: 20,
+					fontSize: 24,
 					fontWeight: 'bolder',
 					color: "#A9A9A9"
 				}
-				
 			},
 			tooltip: {
 				trigger: 'item',
@@ -151,6 +153,7 @@ export class ChartService {
 				orient: 'vertical',
 				left: 'right',
 				top: 'top',
+				padding: 30,
 				feature: {
 					mark: { show: true },
 					// dataView: { show: true, readOnly: false },
@@ -165,18 +168,17 @@ export class ChartService {
 				right: 10,
 				top: 'center'
 			},
-			yAxis: {
+			xAxis: {
 				type: 'category',
 				data: xAxis,
 				axisLabel: {
-					overflow: 'truncate',
-					interval: 0,
-					align:"right"
-					// rotate: 30,
-					// inside:true,	
+					rotate: 90,
+					inside:true,
+					color:'#000'
 				},
+				zlevel:29,
 			},
-			xAxis: {
+			yAxis: {
 				type: 'value',
 			},
 			dataZoom: {
@@ -185,71 +187,12 @@ export class ChartService {
 			},
 			series: series
 		};
-		return this.optionBarH
+		return this.optionBar
 	}
 
-	donut(subtext, title, name, series: any) {
-		this.optionDonut = {
-			title: {
-				text: title,
-				subtext: subtext,
-				left: 'center',
-				subtextStyle: {
-					fontSize: 20,
-					fontWeight: 'bolder',
-					color: "#A9A9A9"
-				}
-			},
-			tooltip: {
-				trigger: 'item'
-			},
-			toolbox: {
-				show: true,
-				orient: 'vertical',
-				left: 'right',
-				top: 'top',
-				feature: {
-					// mark: { show: true },
-					// dataView: { show: true, readOnly: false },
-					saveAsImage: { show: true }
-				}
-			},
-			legend: {
-				orient: 'vertical',
-				right: 10,
-				top: 'center'
-			},
-			series: [
-				{
-					name: name,
-					type: 'pie',
-					radius: ['40%', '70%'],
-					avoidLabelOverlap: false,
-					itemStyle: {
-						borderRadius: 10,
-						borderColor: '#fff',
-						borderWidth: 2
-					},
-					label: {
-						show: false,
-						position: 'center'
-					},
-					emphasis: {
-						label: {
-							show: true,
-							fontSize: 40,
-							fontWeight: 'bold'
-						}
-					},
-					labelLine: {
-						show: false
-					},
-					data: series
-				}
-			]
-		}
-		return this.optionDonut
-	}
+	
+
+	
 
 
 	pie(subtext, title, name, series: any) {

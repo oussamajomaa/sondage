@@ -13,10 +13,18 @@
 
         <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
         <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
-        <img src="./assets/question9.png" alt="" class="question-image" *ngIf="!sum && questionNBR =='question9'">
+        <img src="./assets/question9.png" alt="" class="question-image" *ngIf="!sum && questionNBR =='question9'" @fade>
+
+        <!-- Modal Énoncé -->
+        <app-modal [questionNBR]="questionNBR" [display]="display" (closeModal)="onCloseHandled()"></app-modal>
+
+        <!-- Modal commentaire -->
+        <app-comment [questionNBR]="questionNBR" [commentaire]="commentaire" [year]="year" [textCommentaire]="textCommentaire" (closeModal)="onCloseComment()"></app-comment>
+
 
         <!-- Select block -->
         <div class="d-flex  mb-3 content-select"  >
+            <button class="btn btn-primary btn-modal" (click)="openModal()">Énoncé</button>
             <select #select1 class="form-select" (change)="selectModule($event)" *ngIf="isModule">
                 <option selected disabled>Choisir une modalité</option>
                 <option *ngFor="let module of modules">{{module}}</option>
@@ -26,10 +34,16 @@
                 <option selected disabled>Choisir une promotion</option>
                 <option *ngFor="let promo of promotions">{{promo}}</option>
             </select>
+            <button class="btn btn-primary btn-comment" 
+                    (click)="onComment()" 
+                    *ngIf="(questionNBR == 'question8' || questionNBR == 'question14' || questionNBR == 'question13') && year"
+                    [disabled]="year == 'Toutes les promotions'">
+                    Commentaire de cette question
+            </button>
         </div>
        
 
-        <div echarts [options]="bar" style="height: 660px;"></div>
+        <div echarts [options]="bar" class="echarts"></div>
     </div>
 
      <!-- Block comment box position absolute -->

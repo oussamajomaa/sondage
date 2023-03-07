@@ -14,21 +14,27 @@
         <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
         <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
 
+
+        <!-- Modal Énoncé -->
+        <app-modal [questionNBR]="questionNBR" [display]="display" (closeModal)="onCloseHandled()"></app-modal>
+        
         <!-- Select block -->
-        <div class="d-flex  mb-3 content-select"  [ngStyle]="{'visibility':isModule ? 'visible':'hidden'}">
-            <select #select1 class="form-select"  >
+        <div class="d-flex  mb-3 content-select"  >
+            <button class="btn btn-primary btn-modal" (click)="openModal()">Énoncé</button>
+            <select #select1 class="form-select"  *ngIf="isModule">
                 <option selected disabled>Choisir une modalité</option>
                 <option *ngFor="let module of modules">{{module}}</option>
             </select>
 
-            <select #select2 class="form-select"  >
+            <select #select2 class="form-select" (change)="selectYear($event)" >
                 <option selected disabled>Choisir une promotion</option>
-                
+                <option *ngFor="let promo of promotions">{{promo}}</option>
             </select>
+            
         </div>
        
 
-        <div echarts [options]="bar" style="height: 660px;"></div>
+        <div echarts [options]="bar" class="echarts"></div>
     </div>
 
      <!-- Block comment box position absolute -->
@@ -38,7 +44,7 @@
     </div>
     
     
-    <div *ngIf="!isChart " class="lorem">
+    <div *ngIf="!isChart || !year" class="lorem">
         <div>
             <img src="./assets/cover.png" width="800" alt="" class="d-block m-auto">
         </div>
