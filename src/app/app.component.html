@@ -1,0 +1,67 @@
+<nav class="navbar navbar-expand-lg ">
+	<div class="container-fluid">
+		<a class="navbar-brand" routerLink="/">SONDAGE</a>
+		<button class="navbar-toggler" 
+				type="button" 
+				
+				(click)="isMenuCollapsed = !isMenuCollapsed"
+				>
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" [ngbCollapse]="isMenuCollapsed" id="navbarSupportedContent">
+			<ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex align-items-center justify-content-center">
+
+				<li class="nav-item">
+					<a class="nav-link" routerLink="home" (click)="isMenuCollapsed = true"
+						routerLinkActive="active">Accueil</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" routerLink="rubrique1" (click)="isMenuCollapsed = true"
+						routerLinkActive="active"
+						data-title="Qu'attendez-vous globalement qu'un enseignement vous apporte ? (question 1)">Rubrique1</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" routerLink="rubrique2" (click)="isMenuCollapsed = true"
+						routerLinkActive="active"
+						data-title="Types de ressources/supports/cours (questions 2 à 5)">Rubrique2</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique3"
+						routerLinkActive="active"
+						data-title="Modalités de transmission (questions 6 à 15)">Rubrique3</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique4"
+						routerLinkActive="active"
+						data-title="Comment souhaiteriez-vous faire évoluer les modalités de transmission/enseignement ? (questions 16 à 23)">Rubrique4</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique5"
+						routerLinkActive="active"
+						data-title="Quelles modalités pour les contrôles continus ? (questions 24 à 27)">Rubrique5</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique6"
+						routerLinkActive="active"
+						data-title="Quelle discipline « préférée » toutes années confondues ? (questions 28 à 30)">Rubrique6</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique7"
+						routerLinkActive="active"
+						data-title="Vos commentaires et suggestions (questions 31 à 35)">Rubrique7</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" (click)="isMenuCollapsed = true" routerLink="rubrique8"
+						routerLinkActive="active"
+						data-title="Informations sur l'étudiant (questions 36 à 45)">Rubrique8</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+</nav>
+<div style="margin-top: 56px;">
+	<app-login *ngIf="!auth.isAuthenticated()"></app-login>
+	<router-outlet *ngIf="auth.isAuthenticated()"></router-outlet>
+</div>

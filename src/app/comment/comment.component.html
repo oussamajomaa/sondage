@@ -1,0 +1,17 @@
+<!-- Modal commentaire -->
+<div class="enonce" tabindex="-1" role="dialog" [ngStyle]="{'display':commentaire}" >
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header" >
+                <h5 >Commentaire de la {{questionNBR}} promotion {{year}}</h5>
+                
+            </div>
+           <span style="text-align: justify; margin-bottom:10px;">{{textCommentaire}}</span>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-danger btn-sm" (click)="onCloseComment()">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="width: 100vw; height:100vh; position:fixed;top:0;left:0; background:rgba(128, 128, 128, 0.541); z-index:119" [ngStyle]="{'display':commentaire}" ></div>
+<!-- End Modal -->

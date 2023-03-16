@@ -1,0 +1,34 @@
+<div class="d-flex" >
+    <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
+    <!-- Block comment box position absolute -->
+    <div #comment class="comment">
+        <textarea #textarea  id="" cols="100" rows="" class=""></textarea>
+        <button class="btn btn-danger btn-sm close-comment" (click)="closeComment()">x</button>
+    </div>
+
+    <div class="side" >
+        <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Réponse1'}" (click)="openQuestion('Réponse1',legend,positif1,negatif1)">Question31</button>
+        <!--
+            <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Réponse2'}" (click)="openQuestion('Réponse2',legend,positif2,negatif2)">Question32</button>
+            <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Réponse3'}" (click)="openQuestion('Réponse3',legend,positif3,negatif3)">Question33</button>
+            <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Réponse4'}" (click)="openQuestion('Réponse4',legend,positif4,negatif4)">Question34</button>
+            <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Réponse5'}" (click)="openQuestion('Réponse5',legend,positif5,negatif5)">Question35</button>
+        -->
+            <button class="btn btn-secondary btn-md m-1" [ngClass]="{'btn-danger':title ==='Commentaire'}" (click)="openQuestion('Commentaire',legend,positif6,negatif6)">Commentaire</button>
+        
+        
+    </div>
+    <div *ngIf="isChart" class="content">
+        
+        <div echarts [options]="scatter" class="echarts"></div>
+    </div>
+    <div *ngIf="!isChart" class="lorem">
+        <div>
+            <img src="./assets/cover.png" width="800" alt="" class="d-block m-auto">
+        </div>
+        <div>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " class="text-center">Cliquez sur l'un des boutons situés à gauche de la page.</h2>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " class="text-center">En suite, un graph de type scatter va apparaitre selon la réponse choisie.</h2>
+        </div>
+    </div>
+</div>

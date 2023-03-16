@@ -1,0 +1,38 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 100px;
+    width: 30%;
+}
+
+@media (max-width:1000px){
+    .login{
+        width: 60%;
+    }
+}
+
+@media (max-width:768px){
+    .login{
+        width: 90%;
+    }
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: rgb(255, 251, 188);
+}
+
+button{
+    margin-top: 5px;
+}
+
+h3{
+    margin: 0;
+}

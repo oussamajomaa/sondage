@@ -1,0 +1,42 @@
+<div class="d-flex body">
+    <!-- Side block -->
+    <div class="side">
+        <div *ngFor="let q of questions" class="">
+        </div>
+    </div>
+
+    <!-- Content block -->
+    <div class="content">
+        <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()"
+            title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
+        <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
+
+        <!-- Block comment box position absolute -->
+        <div #comment class="comment">
+            <textarea #textarea id="" cols="100" rows="" class=""></textarea>
+            <button class="btn btn-danger btn-sm close-comment" (click)="closeComment()">x</button>
+        </div>
+
+        
+        <!-- Modal Énoncé -->
+        <app-modal questionNBR="question1" [display]="display" (closeModal)="onCloseHandled()"></app-modal>
+        <!-- Select block -->
+        <div class="d-flex  mb-3 content-select">
+            <button class="btn btn-primary btn-modal" (click)="openModal()">Énoncé</button>
+            <select #select1 class="form-select" (change)="selectModule($event)">
+                <option selected disabled>Choisir une modalité</option>
+                <option *ngFor="let module of modules">{{module}}</option>
+            </select>
+
+            <select #select2 class="form-select" (change)="selectYear($event)">
+                <option selected disabled>Choisir une promotion</option>
+                <option *ngFor="let promo of promotions">{{promo}}</option>
+            </select>
+        </div>
+        <div echarts [options]="bar" class="echarts"></div>
+
+        <img src="./assets/question1.png" alt="" class="question-image" *ngIf="!sum" @fade>
+    </div>
+
+
+</div>

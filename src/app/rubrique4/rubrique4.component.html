@@ -1,0 +1,93 @@
+<div class="d-flex body">
+    <div class="side">
+        <div *ngFor="let q of questions" >
+            <button 
+                    class="btn btn-secondary btn-md m-1" 
+                    [ngClass]="{'btn-danger':questionNBR ===q}" 
+                    (click)="question(q)">{{q | titlecase}}
+            </button> 
+        </div>
+    </div>
+    
+    <div *ngIf="isChart || isYear" class="content">
+
+        <button class="btn btn-primary btn-sm add-comment" *ngIf="isChart" (click)="addComment()" title="Commentaire"><img src="./assets/comment.png" width="18" alt=""></button>
+        <span class="sum" *ngIf="sum">{{sum}} Réponses</span>
+        
+        <!-- Modal Énoncé -->
+        <app-modal [questionNBR]="questionNBR" 
+            [display]="display" 
+            (closeModal)="onCloseHandled()"></app-modal>
+
+        <!-- Modal commentaire -->
+        <app-comment [questionNBR]="questionNBR" 
+            [commentaire]="commentaire" 
+            [year]="year" 
+            [textCommentaire]="textCommentaire" 
+            (closeModal)="onCloseComment()"></app-comment>
+
+        <!-- Select block -->
+        <div class="d-flex  mb-3 content-select"  >
+            <button class="btn btn-primary btn-modal" (click)="openModal()">Énoncé</button>
+            <select #select1 class="form-select"  *ngIf="isModule">
+                <option selected disabled>Choisir une modalité</option>
+                <option *ngFor="let module of modules">{{module}}</option>
+            </select>
+
+            <select #select2 class="form-select" (change)="selectYear($event)" >
+                <option selected disabled>Choisir une promotion</option>
+                <option *ngFor="let promo of promotions">{{promo}}</option>
+            </select>
+
+            <button class="btn btn-primary btn-comment" 
+                    (click)="onComment()" 
+                    *ngIf="(questionNBR == 'question18' || questionNBR == 'question16') && year"
+                    [disabled]="year == 'Toutes les promotions'">
+                    Commentaire de cette question
+            </button>
+        </div>
+       
+        <div echarts [options]="bar" class="echarts"></div>
+    </div>
+
+     <!-- Block comment box position absolute -->
+     <div #comment class="comment">
+        <textarea #textarea  id="" cols="100" rows="" class=""></textarea>
+        <button class="btn btn-danger btn-sm close-comment" (click)="closeComment()">x</button>
+    </div>
+    
+    
+    <div *ngIf="!isChart" class="lorem">
+        <div>
+            <img src="./assets/cover.png" width="800" alt="" class="d-block m-auto">
+        </div>
+        <div>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " 
+                class="text-center">
+                Cliquez sur l'un des boutons situés à gauche de la page.
+            </h2>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " 
+                class="text-center">
+                En suite, un graph de type bar va apparaitre selon la réponse choisie.
+            </h2>
+            
+        </div>
+    </div>
+    <div *ngIf="isYear" class="lorem">
+        <div>
+            <img src="./assets/cover.png" width="800" alt="" class="d-block m-auto">
+        </div>
+        <div>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " 
+                class="text-center">
+                Cliquez sur l'un des boutons situés à gauche de la page.
+            </h2>
+            <h2 style="font-size: 20px; text-shadow: 2px 2px 4px #818181; " 
+                class="text-center">
+                En suite, un graph de type bar va apparaitre selon la réponse choisie.
+            </h2>
+            
+        </div>
+    </div>
+    
+</div>

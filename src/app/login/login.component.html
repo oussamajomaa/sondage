@@ -1,0 +1,7 @@
+<div class="login">
+    <h5>Nom d'utilisateur</h5>
+    <input placeholder="Saisir le nom d'utilisateur" [(ngModel)]="email" type="email">
+    <h5>Mot de passe</h5>
+    <input [type]="hide ? 'password' : 'text'" [(ngModel)]="password" placeholder="Saisir le mot de passe">
+    <button (click)="login()" [disabled]="email==='' || password ===''" class="btn btn-primary">Login</button>
+</div>

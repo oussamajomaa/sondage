@@ -1,0 +1,161 @@
+
+<div class="d-flex body">
+    <div class="side">
+        <div *ngFor="let q of questions; let i=index">
+            <a class="btn home-link"  [ngClass]="{'btn-danger':questionNBR ===q}"
+                (click)="question(q)">{{q | titlecase}}
+        </a>
+        </div>
+    </div>
+
+    <div class="content px-3">
+
+
+        <h3 class="text-danger text-center fw-bold">« Sondage Etudiants »</h3><br>
+        <p class="text-primary text-center fw-bold">Présentation et commentaires par rubrique</p><br>
+        <p class="text-center fw-bold">par Frédérick GAY – Février 2023</p><br>
+        <p class="fw-bold text-center"><strong>Coordination :</strong>  Frédérick GAY | Alain CARRIRE | Marie-Christine RENAUD</p><br>
+        <p class="fw-bold text-center"><strong>Auteurs :</strong> Les 1332 étudiants ayant participé au sondage</p><br>
+
+        <div *ngIf="questionNBR == 'Contexte et objectifs du sondage'">
+            <h4 class="fw-bold">1 - Contexte et objectifs du sondage :</h4><br>
+            <h6 class="mx-3"><strong>- Affichage initial  : (Texte en encadré)</strong></h6><br>
+            <ul class="mx-5">
+                <li>L'objectif principal est de recueillir les avis, les besoins, les attentes et les appréciations des étudiants concernant l'enseignement « initial » de chacune des disciplines afin d'aider à améliorer et à faire progresser la qualité de l'enseignement et à l'adapter au mieux à chacun et au plus grand nombre.</li><br>
+                <li>Il s'agit d'un sondage anonyme destiné à 4 promotions : soit les 1725 étudiant-e-s en DFGSM2, DFGSM3, DFASM1 et DFASM2 en 2021-2022</li><br>
+                
+            </ul><br>
+        </div>
+
+        <div *ngIf="questionNBR == 'Présentation du questionnaire'">
+
+            <h4 class="fw-bold">2 - Présentation du questionnaire :</h4><br>
+            <h6 class="mx-3"><strong>- Affichage initial : (Une question sous Survey Monkey)</strong></h6><br>
+            <ul class="mx-5">
+                <li>Le questionnaire a initialement été élaboré par FG, AC et MCR puis amélioré à l'aide des contributions de divers enseignants</li><br>
+                <li>Il contient un total de 45 questions réparties selon 8 rubriques :</li><br>
+                
+                    <ol>
+                        <li><a routerLink="/rubrique1"><strong>Rubrique N°1 :</strong></a> Qu'attendez-vous globalement qu'un enseignement vous apporte ? (question 1)</li>
+                        <li><a routerLink="/rubrique2"><strong>Rubrique N°2 :</strong></a> Types de ressources/supports/cours (questions 2 à 5)</li>
+                        <li><a routerLink="/rubrique3"><strong>Rubrique N°3 :</strong></a> Modalités de transmission (questions 6 à 15)</li>
+                        <li><a routerLink="/rubrique4"><strong>Rubrique N°4 :</strong></a> Comment souhaiteriez-vous faire évoluer les modalités de transmission/enseignement ? (questions 16 à 23)</li>
+                        <li><a routerLink="/rubrique5"><strong>Rubrique N°5 :</strong></a> Quelles modalités pour les contrôles continus ? (questions 24 à 27)</li>
+                        <li><a routerLink="/rubrique6"><strong>Rubrique N°6 :</strong></a> Quelle discipline « préférée » toutes années confondues ? (questions 28 à 30)</li>
+                        <li><a routerLink="/rubrique7"><strong>Rubrique N°7 :</strong></a> Vos commentaires et suggestions (questions 31 à 35)</li>
+                        <li><a routerLink="/rubrique8"><strong>Rubrique N°8 :</strong></a> Informations sur l'étudiant (questions 36 à 45)</li>
+                        
+                    </ol>
+                <br>
+                <li>Même si l'essentiel du questionnaire est commun aux 4 promotions, certaines questions sont adaptées à chaque promotion</li><br>
+                <li>38 questions sont communes aux 4 années alors que 7 questions sont spécifiques de chacune des années
+                    Parmi les 38 questions communes, 32 sont de type binomial, nominal ou ordinal, 1 est quantitative continue (échelle visuelle analogique), 5 sont semi-fermées (l'une des modalités est ouverte : « Autre (veillez préciser : ») et 6 sont des questions ouvertes à même de recueillir la libre expression de l'étudiant-e.</li><br>
+                <li>Une partie des questions portent ce que les étudiant-e-s ont vécu jusqu'alors (appréciations, avis), l'autre partie des questions concernent leurs attentes et suggestions.</li><br>
+                
+            </ul><br>
+        </div>
+
+        <div *ngIf="questionNBR == 'Déroulé du sondage'">
+
+            <h4 class="fw-bold">3 - Déroulé du sondage :</h4><br>
+            <h6 class="mx-3"><strong>- Affichage initial : (Graphe de progression des effectifs en fonction des relances)</strong></h6><br>
+            <ul class="mx-5">
+                <li>Le sondage a été ouvert sur Survey Monkey le vendredi 23 septembre (à 2h19) et fermé le dimanche 9 octobre à minuit, soit une durée de recueil de 17 jours</li><br>
+                <li><strong>Temps N°1 :</strong></li>
+                <ol>
+                    <li>Lancement du sondage le vendredi 23 septembre à 2h19 via Moodle avec message d'Alain CARRIÉ (ci-dessous)</li>
+                    <li>Le vendredi à 9h26 : nombre de réponses =100/1725, soit 5.79%</li>
+                    <li>Le samedi à 13h31 : 65 DFGSM2 + 74 DFGSM3 + 73 DFASM1 + 43 DFASM2 => Total : 255/1725, soit 14.78%</li>
+                </ol><br>
+                <li><strong>Temps N°2 :</strong></li>
+                <ol>
+                    <li>Relance par Marie-Christine RENAUD le samedi 24 septembre à 13h54 via MailPro (cf. ci-dessous)</li>
+                    <li>Le dimanche 25 septembre à 21h17 : 150 DFGSM2 + 133 DFGSM3 + 155 DFASM1 + 75 DFASM2 => Total : 513/1725, soit 29.74%</li>
+                </ol><br>
+                <li><strong>Temps N°3 :</strong></li>
+                <ol>
+                    <li>Relance par Alain CARRIÉ (cf. ci-dessous) le lundi 26 septembre à 18h05 auprès des élus étudiants et des enseignants du groupe de réflexion</li>
+                    <li>Le mercredi 28 septembre à 22h12 : 183 DFGSM2 + 163 DFGSM3 + 195 DFASM1 + 104 DFASM2 => Total : 645/1725, soit 37.39%</li>
+                </ol><br>
+                <li><strong>Temps N°4 :</strong></li>
+                <ol>
+                    <li>Relance par Marie-Christine RENAUD le vendredi 30 septembre à 14h00 auprès des étudiants par pôle de stage en mails directs</li>
+                    <li>Le lundi 3 octobre à 22h12 : 241 DFGSM2 + 200 DFGSM3 + 279 DFASM1 + 145 DFASM2 => Total : 865/1725, soit 50.14%</li>
+                    <li>Le jeudi 6 octobre à 17h03 : 264 DFGSM2 + 212 DFGSM3 + 303 DFASM1 + 160 DFASM2 => Total : 939/1725, soit 54.43%</li>
+                </ol><br>
+                <li><strong>Temps N°5 :</strong></li>
+                <ol>
+                    <li>Relance par Marie-Christine RENAUD le vendredi 7 octobre à 10h00 (cf. ci-dessous les messages d'accompagnement)</li>
+                    <li>Le vendredi 7 octobre à 23h57 : 336 DFGSM2 + 279 DFGSM3 + 401 DFASM1 + 217 DFASM2 => Total : 1233/1725, soit 71.48%</li>
+                    <li>Fermeture des sondages le lundi 10 octobre à 1h00 : 364 DFGSM2 + 298 DFGSM3 + 422 DFASM1 + 248 DFASM2 =><br>
+                    <span class="text-danger"><strong>Total : 1332/1725, soit 77.21%</strong></span>
+                    </li>
+                </ol><br>
+            </ul><br>
+        </div>
+    
+        <div *ngIf="questionNBR == 'Analyse & Méthodes'">
+
+            <h4 class="fw-bold">4 - Analyse & Méthodes :</h4><br>
+            <h6 class="mx-3"><strong>- Affichage initial : (Graphe de la question N°1 4 années fusionnées & un graphe de classification après analyse lexicométrique)</strong></h6><br>
+            <h6 class="mx-3"><strong>- Analyse conduite par : xxxxxxxxx
+                En collaboration avec : xxxxxxxxx | xxxxxxx | xxxxxxx | xxxxxxx</strong></h6><br>
+            <ul class="mx-5">
+                <li>Taux de réponses</li><br>
+                <li>Données manquantes :</li><br>
+                <ol>
+                    <li>Les variables qualitatives binomiales, nominales ou ordinales font chacune l’objet d’un graphe fusionnant les 4 années ainsi que d’un graphe par année.</li>
+                    <li>Les croisements entre variables prennent en compte les 4 années fusionnées.</li>
+                    <li>Xxxxxx</li>
+                    <li>Xxxxxx</li>
+                    <li>Xxxxxx</li>
+                </ol><br>
+            </ul>
+        </div>
+    
+            <p class="text-center">____________________________________</p>
+            <p class="text-center mb-5">____________________________</p>
+    
+            <!--
+                <li>DFGSM2 en 2021-2022 </li><br>
+                <ol>
+                    <li>Nombre de répondants : 364 / 447, soit 81.43%</li>
+                    <li>Version initiale extraite de Survey Monkey : 9 colonnes « vierges » + 202 colonnes (soit 211 colonnes)</li>
+                    <li>Version 2 en commun avec les 3 autres : 136 colonnes</li>
+                    <li>Version 3 en commun avec les 3 autres sans le textuel : 130 colonnes + 1 colonne « Année »</li>
+                </ol><br>
+                <li>DFGSM3 en 2021-2022 :</li><br>
+                <ol>
+                    <li>Nombre de répondants : 298 / 377, soit 79.04%</li>
+                    <li>Version initiale extraite de Survey Monkey : 9 colonnes « vierges » + 256 colonnes (soit 265 colonnes)</li>
+                    <li>Version 2 en commun avec les 3 autres : 136 colonnes</li>
+                    <li>Version 3 en commun avec les 3 autres sans le textuel : 130 colonnes + 1 colonne « Année »</li>
+                </ol><br>
+                <li>DFASM1 en 2021-2022 : </li><br>
+                <ol>
+                    <li>Nombre de répondants : 422 / 513, soit 82.26%</li>
+                    <li>Version initiale extraite de Survey Monkey : 9 colonnes « vierges » + 294 colonnes (soit 303 colonnes) </li>
+                    <li>Version 2 en commun avec les 3 autres : 136 colonnes</li>
+                    <li>Version 3 en commun avec les 3 autres sans le textuel : 130 colonnes + 1 colonne « Année »</li>
+                </ol><br>
+                <li>DFASM1 en 2021-2022 : </li><br>
+                <ol>
+                    <li>Nombre de répondants : 422 / 513, soit 82.26%</li>
+                    <li>Version initiale extraite de Survey Monkey : 9 colonnes « vierges » + 294 colonnes (soit 303 colonnes) </li>
+                    <li>Version 2 en commun avec les 3 autres : 136 colonnes</li>
+                    <li>Version 3 en commun avec les 3 autres sans le textuel : 130 colonnes + 1 colonne « Année »</li>
+                </ol><br>
+                <li>DFASM2 en 2021-2022 :<br> 
+                    Il s'agit du tableau le plus complet en termes de nombre de questions</li><br>
+                    <ol>
+                        <li>Nombre de répondants : 248 / 388, soit 63.91%</li>
+                        <li>Version initiale extraite de Survey Monkey : 9 colonnes « vierges » + 305 colonnes (soit 314 colonnes) </li>
+                        <li>Version 2 en commun avec les 3 autres : 136 colonnes</li>
+                        <li>Version 3 en commun avec les 3 autres sans le textuel : 130 colonnes</li>
+                    </ol><br>
+            -->
+       
+    </div>
+
+
+    
