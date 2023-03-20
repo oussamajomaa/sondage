@@ -63,7 +63,7 @@ export class ManyResponseService {
 		}
 		else {
 			this.props.map(p => {
-				oneYear.push(data.filter((r: any) => r[p] !== "" && r.annee == this.year).length)
+				oneYear.push({name:p,value:data.filter((r: any) => r[p] !== "" && r.annee == this.year).length})
 				this.sum += data.filter((r: any) => r[p] !== "" && r.annee == this.year).length
 			})
 		}
@@ -248,6 +248,13 @@ export class ManyResponseService {
 		else {
 			let color
 			this.xaxis = [this.year]
+			if (question == "question43") {
+				oneYear = oneYear.sort((a,b)=> {
+					if (a.value > b.value) return 1
+					if (a.value < b.value) return -1
+					return 0
+				})
+			}
 			if (this.year == "DFGSM2") color = "#5C7BD9"
 			if (this.year == "DFGSM3") color = "#9FE080"
 			if (this.year == "DFASM1") color = "#FFDC60"

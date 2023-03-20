@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 2,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 3,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 4,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 5,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 6,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 7,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 8,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 9,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 10,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 11,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 12,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 13,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 14,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 15,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 16,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 17,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 18,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 19,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 20,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 21,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 22,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 23,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 24,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 25,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 26,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 27,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 28,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 29,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 30,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 31,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 32,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 33,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 34,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 35,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 36,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 37,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 38,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 39,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 40,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 41,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 42,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 43,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 44,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 45,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 46,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 47,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 48,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 49,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 50,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 51,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 52,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 53,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 54,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 55,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 56,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 57,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 58,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 59,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 60,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 61,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 62,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 63,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 64,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 65,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 66,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 67,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 68,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 69,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 70,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 71,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 72,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 73,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 74,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 75,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 76,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 77,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 78,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 79,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 80,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 81,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 82,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 83,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 84,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 85,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 86,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 87,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 88,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 89,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 90,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 91,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 92,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 93,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 94,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 95,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 96,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 97,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 98,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 99,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 100,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 101,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 102,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 103,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 104,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 105,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 106,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 107,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 108,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 109,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 110,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 111,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 112,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 113,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 114,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 115,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 116,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 117,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 118,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 119,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 120,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 121,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 122,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 123,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 124,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 125,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 126,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 127,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 128,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 129,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 130,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 131,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 132,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 133,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 134,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 135,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 136,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 137,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 138,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 139,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 140,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 141,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 142,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 143,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 144,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 145,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 146,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 147,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 148,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 149,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 150,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 151,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 152,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 153,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 154,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 155,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 156,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 157,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 158,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 159,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 160,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 161,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 162,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 163,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 164,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 165,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 166,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 167,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 168,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 169,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 170,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 171,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 172,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 173,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 174,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 175,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 176,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 177,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 178,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 179,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 180,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 181,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 182,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 183,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 184,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 185,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 186,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 187,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 188,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 189,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 190,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 191,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 192,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 193,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 194,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 195,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 196,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 197,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 198,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 199,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 200,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 201,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 202,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 203,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 204,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 205,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 206,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 207,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 208,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 209,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 210,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 211,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 212,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 213,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 214,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 215,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 216,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 217,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 218,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 219,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 220,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 221,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 222,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 223,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 224,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 225,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 226,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 227,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 228,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 229,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 230,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 231,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 232,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 233,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 234,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 235,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 236,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 237,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 238,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 239,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 240,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 241,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 242,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 243,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 244,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 245,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 246,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 247,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 248,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 249,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 250,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 251,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 252,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 253,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 254,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 255,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 256,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 257,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 258,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 259,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 260,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 261,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 262,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 263,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 264,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 265,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 266,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 267,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 268,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 269,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 270,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 271,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 272,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 273,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 274,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 275,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 276,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 277,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 278,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 279,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 280,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 281,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 282,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 283,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 284,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 285,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 286,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 287,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 288,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 289,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 290,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 291,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 292,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 293,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 294,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 295,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 296,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 297,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 298,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 299,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 300,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 301,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 302,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 303,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 304,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 305,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 306,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 307,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 308,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 309,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 310,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 311,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 312,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 313,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 314,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 315,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 316,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 317,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 318,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 319,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 320,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 321,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 322,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 323,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 324,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 325,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 326,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 327,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 328,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 329,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 330,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 331,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 332,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 333,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 334,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 335,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 336,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 337,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 338,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 339,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 340,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 341,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 342,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 343,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 344,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 345,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 346,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 347,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 348,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 349,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 350,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 351,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 352,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 353,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 354,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 355,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 356,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 357,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 358,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 359,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 360,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 361,
+   "annee": "DFGSM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 362,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 363,
+   "annee": "DFGSM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 364,
+   "annee": "DFGSM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 365,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 366,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 367,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 368,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 369,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 370,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 371,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 372,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 373,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 374,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 375,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 376,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 377,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 378,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 379,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 380,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 381,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 382,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 383,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 384,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 385,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 386,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 387,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 388,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 389,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 390,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 391,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 392,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 393,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 394,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 395,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 396,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 397,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 398,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 399,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 400,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 401,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 402,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 403,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 404,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 405,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 406,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 407,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 408,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 409,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 410,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 411,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 412,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 413,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 414,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 415,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 416,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 417,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 418,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 419,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 420,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 421,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 422,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 423,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 424,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 425,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 426,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 427,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 428,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 429,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 430,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 431,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 432,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 433,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 434,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 435,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 436,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 437,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 438,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 439,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 440,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 441,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 442,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 443,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 444,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 445,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 446,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 447,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 448,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 449,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 450,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 451,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 452,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 453,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 454,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 455,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 456,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 457,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 458,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 459,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 460,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 461,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 462,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 463,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 464,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 465,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 466,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 467,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 468,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 469,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 470,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 471,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 472,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 473,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 474,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 475,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 476,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 477,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 478,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 479,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 480,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 481,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 482,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 483,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 484,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 485,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 486,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 487,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 488,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 489,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 490,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 491,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 492,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 493,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 494,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 495,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 496,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 497,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 498,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 499,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 500,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 501,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 502,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 503,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 504,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 505,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 506,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 507,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 508,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 509,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 510,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 511,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 512,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 513,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 514,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 515,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 516,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 517,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 518,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 519,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 520,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 521,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 522,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 523,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 524,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 525,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 526,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 527,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 528,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 529,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 530,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 531,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 532,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 533,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 534,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 535,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 536,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 537,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 538,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 539,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 540,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 541,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 542,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 543,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 544,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 545,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 546,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 547,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 548,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 549,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 550,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 551,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 552,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 553,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 554,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 555,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 556,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 557,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 558,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 559,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 560,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 561,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 562,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 563,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 564,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 565,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 566,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 567,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 568,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 569,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 570,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 571,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 572,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 573,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 574,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 575,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 576,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 577,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 578,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 579,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 580,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 581,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 582,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 583,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 584,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 585,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 586,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 587,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 588,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 589,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 590,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 591,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 592,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 593,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 594,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 595,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 596,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 597,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 598,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 599,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 600,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 601,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 602,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 603,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 604,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 605,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 606,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 607,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 608,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 609,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 610,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 611,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 612,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 613,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 614,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 615,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 616,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 617,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 618,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 619,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 620,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 621,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 622,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 623,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 624,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 625,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 626,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 627,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 628,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 629,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 630,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 631,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 632,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 633,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 634,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 635,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 636,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 637,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 638,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 639,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 640,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 641,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 642,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 643,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 644,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 645,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 646,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 647,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 648,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 649,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 650,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 651,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 652,
+   "annee": "DFGSM3",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 653,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 654,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 655,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 656,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 657,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 658,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 659,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 660,
+   "annee": "DFGSM3",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 661,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 662,
+   "annee": "DFGSM3",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 663,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 664,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 665,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 666,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 667,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 668,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 669,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 670,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 671,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 672,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 673,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 674,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 675,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 676,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 677,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 678,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 679,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 680,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 681,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 682,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 683,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 684,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 685,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 686,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 687,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 688,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 689,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 690,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 691,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 692,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 693,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 694,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 695,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 696,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 697,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 698,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 699,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 700,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 701,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 702,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 703,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 704,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 705,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 706,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 707,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 708,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 709,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 710,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 711,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 712,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 713,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 714,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 715,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 716,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 717,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 718,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 719,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 720,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 721,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 722,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 723,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 724,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 725,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 726,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 727,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 728,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 729,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 730,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 731,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 732,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 733,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 734,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 735,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 736,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 737,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 738,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 739,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 740,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 741,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 742,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 743,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 744,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 745,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 746,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 747,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 748,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 749,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 750,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 751,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 752,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 753,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 754,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 755,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 756,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 757,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 758,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 759,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 760,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 761,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 762,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 763,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 764,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 765,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 766,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 767,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 768,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 769,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 770,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 771,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 772,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 773,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 774,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 775,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 776,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 777,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 778,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 779,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 780,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 781,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 782,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 783,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 784,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 785,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 786,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 787,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 788,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 789,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 790,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 791,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 792,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 793,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 794,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 795,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 796,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 797,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 798,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 799,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 800,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 801,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 802,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 803,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 804,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 805,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 806,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 807,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 808,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 809,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 810,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 811,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 812,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 813,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 814,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 815,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 816,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 817,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 818,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 819,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 820,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 821,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 822,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 823,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 824,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 825,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 826,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 827,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 828,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 829,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 830,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 831,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 832,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 833,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 834,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 835,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 836,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 837,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 838,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 839,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 840,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 841,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 842,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 843,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 844,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 845,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 846,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 847,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 848,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 849,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 850,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 851,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 852,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 853,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 854,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 855,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 856,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 857,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 858,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 859,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 860,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 861,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 862,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 863,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 864,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 865,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 866,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 867,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 868,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 869,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 870,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 871,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 872,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 873,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 874,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 875,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 876,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 877,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 878,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 879,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 880,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 881,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 882,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 883,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 884,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 885,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 886,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 887,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 888,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 889,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 890,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 891,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 892,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 893,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 894,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 895,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 896,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 897,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 898,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 899,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 900,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 901,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 902,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 903,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 904,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 905,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 906,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 907,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 908,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 909,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 910,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 911,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 912,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 913,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 914,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 915,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 916,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 917,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 918,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 919,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 920,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 921,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 922,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 923,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 924,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 925,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 926,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 927,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 928,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 929,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 930,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 931,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 932,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 933,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 934,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 935,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 936,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 937,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 938,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 939,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 940,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 941,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 942,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 943,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 944,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 945,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 946,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 947,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 948,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 949,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 950,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 951,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 952,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 953,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 954,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 955,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 956,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 957,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 958,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 959,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 960,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 961,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 962,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 963,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 964,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 965,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 966,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 967,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 968,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 969,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 970,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 971,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 972,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 973,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 974,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 975,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 976,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 977,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 978,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 979,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 980,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 981,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 982,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 983,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 984,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 985,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 986,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 987,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 988,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 989,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 990,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 991,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 992,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 993,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 994,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 995,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 996,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 997,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 998,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 999,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1000,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1001,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1002,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1003,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1004,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1005,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1006,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1007,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1008,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1009,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1010,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1011,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1012,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1013,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1014,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1015,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1016,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1017,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1018,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1019,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1020,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1021,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1022,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1023,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1024,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1025,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1026,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1027,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1028,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1029,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1030,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1031,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1032,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1033,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1034,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1035,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1036,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1037,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1038,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1039,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1040,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1041,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1042,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1043,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1044,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1045,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1046,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1047,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1048,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1049,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1050,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1051,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1052,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1053,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1054,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1055,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1056,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1057,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1058,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1059,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1060,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1061,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1062,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1063,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1064,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1065,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1066,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1067,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1068,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1069,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1070,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1071,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1072,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1073,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1074,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1075,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1076,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1077,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1078,
+   "annee": "DFASM1",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1079,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1080,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1081,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1082,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1083,
+   "annee": "DFASM1",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1084,
+   "annee": "DFASM1",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1085,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1086,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1087,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1088,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1089,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1090,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1091,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1092,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1093,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1094,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1095,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1096,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1097,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1098,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1099,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1100,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1101,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1102,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1103,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1104,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1105,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1106,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1107,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1108,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1109,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1110,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1111,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1112,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1113,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1114,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1115,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1116,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1117,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1118,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1119,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1120,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1121,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1122,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1123,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1124,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1125,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1126,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1127,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1128,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1129,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1130,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1131,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1132,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1133,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1134,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1135,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1136,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1137,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1138,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1139,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1140,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1141,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1142,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1143,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1144,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1145,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1146,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1147,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1148,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1149,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1150,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1151,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1152,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1153,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1154,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1155,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1156,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1157,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1158,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1159,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1160,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1161,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1162,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1163,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1164,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1165,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1166,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1167,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1168,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1169,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1170,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1171,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1172,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1173,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1174,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1175,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1176,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1177,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1178,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1179,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1180,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1181,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1182,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1183,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1184,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1185,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1186,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1187,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1188,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1189,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1190,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1191,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1192,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1193,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1194,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1195,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1196,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1197,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1198,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1199,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1200,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1201,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1202,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1203,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1204,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1205,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1206,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1207,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1208,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1209,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1210,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1211,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1212,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1213,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1214,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1215,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1216,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1217,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1218,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1219,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1220,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1221,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1222,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1223,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1224,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1225,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1226,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1227,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1228,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1229,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1230,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1231,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1232,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1233,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1234,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1235,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1236,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1237,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1238,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1239,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1240,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1241,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1242,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1243,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1244,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1245,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1246,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1247,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1248,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1249,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1250,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1251,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1252,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1253,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1254,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1255,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1256,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1257,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1258,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1259,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1260,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1261,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1262,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1263,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1264,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1265,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1266,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1267,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1268,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1269,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1270,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1271,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1272,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1273,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1274,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1275,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1276,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1277,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1278,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1279,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1280,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1281,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1282,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1283,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1284,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1285,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1286,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1287,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1288,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1289,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1290,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1291,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1292,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1293,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1294,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1295,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1296,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1297,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1298,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1299,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1300,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1301,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1302,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1303,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1304,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1305,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1306,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1307,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1308,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1309,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1310,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1311,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1312,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1313,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1314,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1315,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1316,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1317,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1318,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1319,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1320,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1321,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1322,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1323,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1324,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1325,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1326,
+   "annee": "DFASM2",
+   "auto_financement": "Oui"
+ },
+ {
+   "id": 1327,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1328,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1329,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1330,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ },
+ {
+   "id": 1331,
+   "annee": "DFASM2",
+   "auto_financement": "empty"
+ },
+ {
+   "id": 1332,
+   "annee": "DFASM2",
+   "auto_financement": "Non"
+ }
+]

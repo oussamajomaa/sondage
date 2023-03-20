@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 2,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 3,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 16
+ },
+ {
+   "id": 4,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 5,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 6,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 7,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 12
+ },
+ {
+   "id": 8,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 9,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 17
+ },
+ {
+   "id": 10,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 11,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 12,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 13,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 14,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 15,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 16,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 17,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 57
+ },
+ {
+   "id": 18,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 79
+ },
+ {
+   "id": 19,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 20,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 21,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 22,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 23,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 24,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 25,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 26,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 27,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 28,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 29,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 30,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 31,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 32,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 33,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 34,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 35,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 36,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 37,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 38,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 39,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 40,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 41,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 42,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 43,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 44,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 49
+ },
+ {
+   "id": 45,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 46,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 47,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 48,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 49,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 50,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 53
+ },
+ {
+   "id": 51,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 52,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 53,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 54,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 55,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 56,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 57,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 58,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 59,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 60,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 61,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 21
+ },
+ {
+   "id": 62,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 63,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 64,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 38
+ },
+ {
+   "id": 65,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 66,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 67,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 68,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 69,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 70,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 71,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 72,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 73,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 74,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 75,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 76,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 77,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 78,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 79,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 49
+ },
+ {
+   "id": 80,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 81,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 82,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 83,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 84,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 85,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 86,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 87,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 88,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 89,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 90,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 91,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 92,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 93,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 94,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 95,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 96,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 97,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 98,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 99,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 100,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 101,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 102,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 103,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 104,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 105,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 106,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 24
+ },
+ {
+   "id": 107,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 108,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 109,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 110,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 111,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 112,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 113,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 114,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 115,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 116,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 117,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 118,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 119,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 120,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 121,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 122,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 123,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 124,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 125,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 126,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 127,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 128,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 129,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 130,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 131,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 132,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 1
+ },
+ {
+   "id": 133,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 134,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 135,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 19
+ },
+ {
+   "id": 136,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 137,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 53
+ },
+ {
+   "id": 138,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 139,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 140,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 141,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 142,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 143,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 144,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 145,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 146,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 147,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 148,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 149,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 150,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 151,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 9
+ },
+ {
+   "id": 152,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 153,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 154,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 155,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 156,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 157,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 158,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 159,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 33
+ },
+ {
+   "id": 160,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 161,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 162,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 163,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 164,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 165,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 166,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 167,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 168,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 22
+ },
+ {
+   "id": 169,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 170,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 53
+ },
+ {
+   "id": 171,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 172,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 26
+ },
+ {
+   "id": 173,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 174,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 175,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 38
+ },
+ {
+   "id": 176,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 177,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 178,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 179,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 180,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 181,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 182,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 183,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 184,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 185,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 186,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 187,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 188,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 189,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 190,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 191,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 192,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 193,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 194,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 195,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 196,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 197,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 198,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 199,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 200,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 201,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 202,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 203,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 204,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 205,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 206,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 207,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 208,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 209,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 210,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 211,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 212,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 213,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 214,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 215,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 216,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 217,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 218,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 219,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 220,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 221,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 23
+ },
+ {
+   "id": 222,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 16
+ },
+ {
+   "id": 223,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 224,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 225,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 226,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 227,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 228,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 229,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 230,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 231,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 232,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 233,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 234,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 235,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 236,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 237,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 238,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 239,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 240,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 241,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 242,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 243,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 244,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 245,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 246,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 247,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 248,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 43
+ },
+ {
+   "id": 249,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 250,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 251,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 252,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 253,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 254,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 255,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 256,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 54
+ },
+ {
+   "id": 257,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 258,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 259,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 260,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 261,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 262,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 263,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 264,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 265,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 266,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 267,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 268,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 269,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 6
+ },
+ {
+   "id": 270,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 271,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 272,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 273,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 44
+ },
+ {
+   "id": 274,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 275,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 276,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 277,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 278,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 279,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 280,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 281,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 282,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 283,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 284,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 285,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 286,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 56
+ },
+ {
+   "id": 287,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 288,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 289,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 290,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 42
+ },
+ {
+   "id": 291,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 292,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 293,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 294,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 295,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 296,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 297,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 298,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 299,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 300,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 301,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 302,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 303,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 304,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 305,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 306,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 307,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 308,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 309,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 310,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 311,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 9
+ },
+ {
+   "id": 312,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 313,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 314,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 315,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 316,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 317,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 318,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 78
+ },
+ {
+   "id": 319,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 320,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 321,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 322,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 323,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 324,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 325,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 326,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 327,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 328,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 329,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 330,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 331,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 88
+ },
+ {
+   "id": 332,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 54
+ },
+ {
+   "id": 333,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 334,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 335,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 336,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 337,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 338,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 339,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 340,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 341,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 342,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 343,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 344,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 345,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 5
+ },
+ {
+   "id": 346,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 23
+ },
+ {
+   "id": 347,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 348,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 349,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 58
+ },
+ {
+   "id": 350,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 351,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 352,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 6
+ },
+ {
+   "id": 353,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 354,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 355,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 36
+ },
+ {
+   "id": 356,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 357,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 358,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 359,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 360,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 361,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 49
+ },
+ {
+   "id": 362,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 363,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 364,
+   "annee": "DFGSM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 365,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 366,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 79
+ },
+ {
+   "id": 367,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 368,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 369,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 370,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 371,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 372,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 373,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 374,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 42
+ },
+ {
+   "id": 375,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 376,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 377,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 378,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 379,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 380,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 381,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 382,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 383,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 384,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 385,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 386,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 387,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 89
+ },
+ {
+   "id": 388,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 389,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 390,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 43
+ },
+ {
+   "id": 391,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 392,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 393,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 394,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 395,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 9
+ },
+ {
+   "id": 396,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 397,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 88
+ },
+ {
+   "id": 398,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 48
+ },
+ {
+   "id": 399,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 400,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 401,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 77
+ },
+ {
+   "id": 402,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 42
+ },
+ {
+   "id": 403,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 404,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 405,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 5
+ },
+ {
+   "id": 406,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 407,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 408,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 409,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 410,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 411,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 412,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 413,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 414,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 415,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 416,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 78
+ },
+ {
+   "id": 417,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 418,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 419,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 420,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 421,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 422,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 423,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 18
+ },
+ {
+   "id": 424,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 425,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 426,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 427,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 428,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 429,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 430,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 431,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 432,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 433,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 434,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 435,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 436,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 54
+ },
+ {
+   "id": 437,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 438,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 439,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 440,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 441,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 442,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 443,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 444,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 445,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 446,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 447,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 448,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 449,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 44
+ },
+ {
+   "id": 450,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 451,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 452,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 453,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 454,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 91
+ },
+ {
+   "id": 455,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 456,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 457,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 458,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 459,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 460,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 461,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 462,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 463,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 464,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 465,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 466,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 467,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 468,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 27
+ },
+ {
+   "id": 469,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 12
+ },
+ {
+   "id": 470,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 471,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 472,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 473,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 474,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 475,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 476,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 477,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 478,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 12
+ },
+ {
+   "id": 479,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 17
+ },
+ {
+   "id": 480,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 481,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 482,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 483,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 484,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 44
+ },
+ {
+   "id": 485,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 486,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 487,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 488,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 489,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 42
+ },
+ {
+   "id": 490,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 491,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 492,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 493,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 494,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 495,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 496,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 497,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 17
+ },
+ {
+   "id": 498,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 499,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 500,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 39
+ },
+ {
+   "id": 501,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 502,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 503,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 504,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 505,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 506,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 507,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 508,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 509,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 510,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 511,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 512,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 513,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 514,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 515,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 516,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 8
+ },
+ {
+   "id": 517,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 1
+ },
+ {
+   "id": 518,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 519,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 520,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 521,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 522,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 523,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 524,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 88
+ },
+ {
+   "id": 525,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 526,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 527,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 528,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 529,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 530,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 531,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 532,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 533,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 534,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 535,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 536,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 537,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 538,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 539,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 540,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 21
+ },
+ {
+   "id": 541,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 542,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 543,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 544,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 545,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 546,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 547,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 548,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 549,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 550,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 551,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 552,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 553,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 554,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 555,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 556,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 557,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 558,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 559,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 560,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 561,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 562,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 563,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 564,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 565,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 566,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 23
+ },
+ {
+   "id": 567,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 568,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 48
+ },
+ {
+   "id": 569,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 570,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 571,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 572,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 573,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 574,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 575,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 89
+ },
+ {
+   "id": 576,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 577,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 578,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 579,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 580,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 581,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 582,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 583,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 584,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 585,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 586,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 587,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 588,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 589,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 590,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 591,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 592,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 593,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 77
+ },
+ {
+   "id": 594,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 595,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 596,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 597,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 598,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 599,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 600,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 601,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 602,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 603,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 604,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 605,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 606,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 607,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 608,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 33
+ },
+ {
+   "id": 609,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 44
+ },
+ {
+   "id": 610,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 611,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 612,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 613,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 614,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 615,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 616,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 617,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 618,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 619,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 620,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 621,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 622,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 623,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 624,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 625,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 626,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 627,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 628,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 629,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 91
+ },
+ {
+   "id": 630,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 631,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 632,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 84
+ },
+ {
+   "id": 633,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 634,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 635,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 636,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 637,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 638,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 639,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 640,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 641,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 642,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 643,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 644,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 645,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 646,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 13
+ },
+ {
+   "id": 647,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 648,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 649,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 650,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 651,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 48
+ },
+ {
+   "id": 652,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 653,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 654,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 655,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 656,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 657,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 658,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 659,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 660,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 661,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 24
+ },
+ {
+   "id": 662,
+   "annee": "DFGSM3",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 663,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 664,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 665,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 84
+ },
+ {
+   "id": 666,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 667,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 668,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 669,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 670,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 671,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 672,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 673,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 674,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 675,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 676,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 677,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 59
+ },
+ {
+   "id": 678,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 679,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 680,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 681,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 682,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 683,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 684,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 685,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 41
+ },
+ {
+   "id": 686,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 687,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 688,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 689,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 690,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 691,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 692,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 693,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 694,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 695,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 696,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 36
+ },
+ {
+   "id": 697,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 698,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 699,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 700,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 701,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 702,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 99
+ },
+ {
+   "id": 703,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 704,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 5
+ },
+ {
+   "id": 705,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 79
+ },
+ {
+   "id": 706,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 707,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 9
+ },
+ {
+   "id": 708,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 709,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 710,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 711,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 712,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 713,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 714,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 715,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 716,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 717,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 718,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 719,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 18
+ },
+ {
+   "id": 720,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 721,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 722,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 723,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 724,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 725,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 726,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 727,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 728,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 729,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 730,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 731,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 732,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 733,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 734,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 735,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 736,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 737,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 738,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 739,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 740,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 741,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 742,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 743,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 744,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 745,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 746,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 747,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 748,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 749,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 750,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 751,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 752,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 753,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 754,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 22
+ },
+ {
+   "id": 755,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 756,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 757,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 758,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 759,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 760,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 761,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 762,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 46
+ },
+ {
+   "id": 763,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 764,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 765,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 766,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 767,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 768,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 769,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 770,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 771,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 772,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 773,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 63
+ },
+ {
+   "id": 774,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 775,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 776,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 777,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 778,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 779,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 780,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 781,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 782,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 783,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 784,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 785,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 786,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 38
+ },
+ {
+   "id": 787,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 788,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 789,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 34
+ },
+ {
+   "id": 790,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 791,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 88
+ },
+ {
+   "id": 792,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 793,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 794,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 795,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 796,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 797,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 798,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 799,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 800,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 801,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 802,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 803,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 96
+ },
+ {
+   "id": 804,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 805,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 806,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 807,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 808,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 809,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 810,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 811,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 812,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 813,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 814,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 815,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 816,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 817,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 78
+ },
+ {
+   "id": 818,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 819,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 58
+ },
+ {
+   "id": 820,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 821,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 822,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 823,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 26
+ },
+ {
+   "id": 824,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 825,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 826,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 827,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 828,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 829,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 830,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 831,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 832,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 833,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 834,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 835,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 836,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 837,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 838,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 839,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 840,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 841,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 842,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 843,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 44
+ },
+ {
+   "id": 844,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 845,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 89
+ },
+ {
+   "id": 846,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 847,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 848,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 849,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 850,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 851,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 852,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 853,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 49
+ },
+ {
+   "id": 854,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 5
+ },
+ {
+   "id": 855,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 856,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 857,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 858,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 859,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 860,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 18
+ },
+ {
+   "id": 861,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 862,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 863,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 864,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 865,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 866,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 867,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 868,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 869,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 870,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 871,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 872,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 873,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 874,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 875,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 876,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 877,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 878,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 879,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 99
+ },
+ {
+   "id": 880,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 881,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 882,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 883,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 884,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 13
+ },
+ {
+   "id": 885,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 886,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 887,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 77
+ },
+ {
+   "id": 888,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 889,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 890,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 891,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 892,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 893,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 18
+ },
+ {
+   "id": 894,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 895,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 896,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 897,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 898,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 899,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 900,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 901,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 43
+ },
+ {
+   "id": 902,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 903,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 904,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 905,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 906,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 907,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 908,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 96
+ },
+ {
+   "id": 909,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 910,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 911,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 912,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 913,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 914,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 915,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 916,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 917,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 918,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 919,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 920,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 921,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 922,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 923,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 924,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 925,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 27
+ },
+ {
+   "id": 926,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 927,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 928,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 59
+ },
+ {
+   "id": 929,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 930,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 931,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 932,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 933,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 934,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 45
+ },
+ {
+   "id": 935,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 936,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 937,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 938,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 939,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 940,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 941,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 942,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 943,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 944,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 945,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 946,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 947,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 948,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 949,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 950,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 951,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 952,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 953,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 954,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 955,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 956,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 957,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 958,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 959,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 960,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 961,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 962,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 963,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 964,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 965,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 966,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 967,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 968,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 969,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 970,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 971,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 61
+ },
+ {
+   "id": 972,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 973,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 974,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 975,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 976,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 977,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 978,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 979,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 980,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 12
+ },
+ {
+   "id": 981,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 982,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 983,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 984,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 985,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 986,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 987,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 988,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 53
+ },
+ {
+   "id": 989,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 990,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 991,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 992,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 46
+ },
+ {
+   "id": 993,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 994,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 995,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 996,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 997,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 998,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 999,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1000,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1001,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1002,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 1003,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 88
+ },
+ {
+   "id": 1004,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1005,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1006,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 1007,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1008,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1009,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 1010,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1011,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1012,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1013,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1014,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1015,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1016,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1017,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1018,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1019,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 3
+ },
+ {
+   "id": 1020,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1021,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1022,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 1023,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 1024,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1025,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1026,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1027,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 1028,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1029,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1030,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 24
+ },
+ {
+   "id": 1031,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1032,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1033,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1034,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1035,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1036,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 22
+ },
+ {
+   "id": 1037,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 1038,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 19
+ },
+ {
+   "id": 1039,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 1040,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1041,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1042,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1043,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1044,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 1045,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1046,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1047,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1048,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1049,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1050,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1051,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1052,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1053,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 1054,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1055,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 8
+ },
+ {
+   "id": 1056,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 1057,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 1058,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1059,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1060,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 22
+ },
+ {
+   "id": 1061,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1062,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1063,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 1064,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1065,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 1066,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1067,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1068,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1069,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1070,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1071,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 1072,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 1073,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1074,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1075,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 1076,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 23
+ },
+ {
+   "id": 1077,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1078,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1079,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1080,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 1081,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1082,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1083,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 1084,
+   "annee": "DFASM1",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1085,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1086,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1087,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 17
+ },
+ {
+   "id": 1088,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 19
+ },
+ {
+   "id": 1089,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1090,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1091,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1092,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1093,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 43
+ },
+ {
+   "id": 1094,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1095,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1096,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1097,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1098,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 99
+ },
+ {
+   "id": 1099,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1100,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1101,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1102,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1103,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 1104,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 1105,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1106,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 1107,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 1108,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 1109,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1110,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1111,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1112,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1113,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1114,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1115,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1116,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1117,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1118,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1119,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 1120,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1121,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 33
+ },
+ {
+   "id": 1122,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1123,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 1124,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1125,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 1126,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1127,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1128,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1129,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 1130,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1131,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1132,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 1133,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 25
+ },
+ {
+   "id": 1134,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1135,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1136,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1137,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1138,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1139,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 89
+ },
+ {
+   "id": 1140,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1141,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1142,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1143,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 1144,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 1145,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1146,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 1147,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1148,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1149,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1150,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 27
+ },
+ {
+   "id": 1151,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1152,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 67
+ },
+ {
+   "id": 1153,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 47
+ },
+ {
+   "id": 1154,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 79
+ },
+ {
+   "id": 1155,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1156,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1157,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 1158,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1159,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1160,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1161,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 1162,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1163,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 30
+ },
+ {
+   "id": 1164,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 37
+ },
+ {
+   "id": 1165,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 1166,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1167,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 21
+ },
+ {
+   "id": 1168,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1169,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1170,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 39
+ },
+ {
+   "id": 1171,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 62
+ },
+ {
+   "id": 1172,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1173,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1174,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 89
+ },
+ {
+   "id": 1175,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1176,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1177,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 31
+ },
+ {
+   "id": 1178,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1179,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 1180,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1181,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1182,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1183,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 55
+ },
+ {
+   "id": 1184,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 69
+ },
+ {
+   "id": 1185,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1186,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1187,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1188,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1189,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1190,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1191,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 22
+ },
+ {
+   "id": 1192,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1193,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1194,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 32
+ },
+ {
+   "id": 1195,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1196,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1197,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1198,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 1199,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1200,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 71
+ },
+ {
+   "id": 1201,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1202,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 53
+ },
+ {
+   "id": 1203,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 1204,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1205,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 1206,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1207,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1208,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1209,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1210,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1211,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1212,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1213,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1214,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 81
+ },
+ {
+   "id": 1215,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1216,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 83
+ },
+ {
+   "id": 1217,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1218,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1219,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1220,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 1221,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1222,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1223,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1224,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 68
+ },
+ {
+   "id": 1225,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1226,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1227,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1228,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 77
+ },
+ {
+   "id": 1229,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1230,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1231,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1232,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1233,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1234,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1235,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1236,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 85
+ },
+ {
+   "id": 1237,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 1238,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1239,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1240,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 48
+ },
+ {
+   "id": 1241,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 80
+ },
+ {
+   "id": 1242,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1243,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1244,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1245,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1246,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1247,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1248,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1249,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 1250,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1251,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1252,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 78
+ },
+ {
+   "id": 1253,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1254,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1255,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1256,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1257,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1258,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1259,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 98
+ },
+ {
+   "id": 1260,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 35
+ },
+ {
+   "id": 1261,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1262,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1263,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1264,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1265,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 60
+ },
+ {
+   "id": 1266,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1267,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 4
+ },
+ {
+   "id": 1268,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 72
+ },
+ {
+   "id": 1269,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 28
+ },
+ {
+   "id": 1270,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1271,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 52
+ },
+ {
+   "id": 1272,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 1273,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 1274,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 43
+ },
+ {
+   "id": 1275,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1276,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 74
+ },
+ {
+   "id": 1277,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1278,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 95
+ },
+ {
+   "id": 1279,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 84
+ },
+ {
+   "id": 1280,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1281,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ },
+ {
+   "id": 1282,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1283,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 29
+ },
+ {
+   "id": 1284,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1285,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1286,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1287,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1288,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1289,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1290,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1291,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 1292,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1293,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1294,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 65
+ },
+ {
+   "id": 1295,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 33
+ },
+ {
+   "id": 1296,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1297,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 10
+ },
+ {
+   "id": 1298,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 1299,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1300,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 78
+ },
+ {
+   "id": 1301,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1302,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 40
+ },
+ {
+   "id": 1303,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1304,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 66
+ },
+ {
+   "id": 1305,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1306,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 20
+ },
+ {
+   "id": 1307,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 15
+ },
+ {
+   "id": 1308,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1309,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 76
+ },
+ {
+   "id": 1310,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1311,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1312,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 90
+ },
+ {
+   "id": 1313,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 75
+ },
+ {
+   "id": 1314,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 1315,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1316,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 100
+ },
+ {
+   "id": 1317,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1318,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 8
+ },
+ {
+   "id": 1319,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 0
+ },
+ {
+   "id": 1320,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 79
+ },
+ {
+   "id": 1321,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1322,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 83
+ },
+ {
+   "id": 1323,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 70
+ },
+ {
+   "id": 1324,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 64
+ },
+ {
+   "id": 1325,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1326,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 86
+ },
+ {
+   "id": 1327,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 82
+ },
+ {
+   "id": 1328,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 87
+ },
+ {
+   "id": 1329,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 50
+ },
+ {
+   "id": 1330,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 73
+ },
+ {
+   "id": 1331,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": null
+ },
+ {
+   "id": 1332,
+   "annee": "DFASM2",
+   "preference_presentiel_versus_distanciel": 51
+ }
+]

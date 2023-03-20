@@ -249,9 +249,6 @@ export class OnePromotionService {
 
 		// Construire le tableau series data du graphique
 		this.xaxis = [this.year]
-		console.log(this.legend);
-		
-		console.log(oneYear);
 		oneYear = oneYear.sort((a,b)=> {
 			if (a.value > b.value) return -1
 			if (a.value < b.value) return 1
@@ -259,8 +256,7 @@ export class OnePromotionService {
 		})
 		this.legend = []
 		oneYear.map(item => this.legend.push(item.name))
-		console.log(this.legend);
-		console.log(oneYear);
+
 		// oneYear = oneYear.sort()
 		this.series = this.createSeries([
 			{ name: this.year, data: oneYear },

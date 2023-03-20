@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 2,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 3,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 4,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 5,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 6,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 7,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 8,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 9,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 10,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 11,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 12,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 13,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 14,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 15,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 16,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 17,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 18,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 19,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 20,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 21,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 22,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 23,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 24,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 25,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 26,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 27,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 28,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 29,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 30,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 31,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 32,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 33,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 34,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 35,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 36,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 37,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 38,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 39,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 40,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 41,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 42,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 43,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 44,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 45,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 46,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 47,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 48,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 49,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 50,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 51,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 52,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 53,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 54,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 55,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 56,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 57,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 58,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 59,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 60,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 61,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 62,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 63,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 64,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 65,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 66,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 67,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 68,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 69,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 70,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 71,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 72,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 73,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 74,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 75,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 76,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 77,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 78,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 79,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 80,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 81,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 82,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 83,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 84,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 85,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 86,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 87,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 88,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 89,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 90,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 91,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 92,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 93,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 94,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 95,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 96,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 97,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 98,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 99,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 100,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 101,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 102,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 103,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 104,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 105,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 106,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 107,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 108,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 109,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 110,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 111,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 112,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 113,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 114,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 115,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 116,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 117,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 118,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 119,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 120,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 121,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 122,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 123,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 124,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 125,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 126,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 127,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 128,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 129,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 130,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 131,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 132,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 133,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 134,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 135,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 136,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 137,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 138,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 139,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 140,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 141,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 142,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 143,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 144,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 145,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 146,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 147,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 148,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 149,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 150,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 151,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 152,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 153,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 154,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 155,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 156,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 157,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 158,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 159,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 160,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 161,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 162,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 163,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 164,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 165,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 166,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 167,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 168,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 169,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 170,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 171,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 172,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 173,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 174,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 175,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 176,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 177,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 178,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 179,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 180,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 181,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 182,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 183,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 184,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 185,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 186,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 187,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 188,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 189,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 190,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 191,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 192,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 193,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 194,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 195,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 196,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 197,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 198,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 199,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 200,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 201,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 202,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 203,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 204,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 205,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 206,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 207,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 208,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 209,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 210,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 211,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 212,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 213,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 214,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 215,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 216,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 217,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 218,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 219,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 220,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 221,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 222,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 223,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 224,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 225,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 226,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 227,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 228,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 229,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 230,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 231,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 232,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 233,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 234,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 235,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 236,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 237,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 238,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 239,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 240,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 241,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 242,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 243,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 244,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 245,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 246,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 247,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 248,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 249,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 250,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 251,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 252,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 253,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 254,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 255,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 256,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 257,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 258,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 259,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 260,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 261,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 262,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 263,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 264,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 265,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 266,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 267,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 268,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 269,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 270,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 271,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 272,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 273,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 274,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 275,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 276,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 277,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 278,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 279,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 280,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 281,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 282,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 283,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 284,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 285,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 286,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 287,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 288,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 289,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 290,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 291,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 292,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 293,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 294,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 295,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 296,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 297,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 298,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 299,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 300,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 301,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 302,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 303,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 304,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 305,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 306,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 307,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 308,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 309,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 310,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 311,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 312,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 313,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 314,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 315,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 316,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 317,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 318,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 319,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 320,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 321,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 322,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 323,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 324,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 325,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 326,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 327,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 328,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 329,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 330,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 331,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 332,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 333,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 334,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 335,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 336,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 337,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 338,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 339,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 340,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 341,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 342,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 343,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 344,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 345,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 346,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 347,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 348,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 349,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 350,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 351,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 352,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 353,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 354,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 355,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 356,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 357,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 358,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 359,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 360,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 361,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 362,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 363,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 364,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 365,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 366,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 367,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 368,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 369,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 370,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 371,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 372,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 373,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 374,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 375,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 376,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 377,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 378,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 379,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 380,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 381,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 382,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 383,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 384,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 385,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 386,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 387,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 388,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 389,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 390,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 391,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 392,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 393,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 394,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 395,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 396,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 397,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 398,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 399,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 400,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 401,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 402,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 403,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 404,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 405,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 406,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 407,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 408,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 409,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 410,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 411,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 412,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 413,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 414,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 415,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 416,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 417,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 418,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 419,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 420,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 421,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 422,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 423,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 424,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 425,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 426,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 427,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 428,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 429,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 430,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 431,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 432,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 433,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 434,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 435,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 436,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 437,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 438,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 439,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 440,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 441,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 442,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 443,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 444,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 445,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 446,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 447,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 448,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 449,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 450,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 451,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 452,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 453,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 454,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 455,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 456,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 457,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 458,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 459,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 460,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 461,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 462,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 463,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 464,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 465,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 466,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 467,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 468,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 469,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 470,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 471,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 472,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 473,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 474,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 475,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 476,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 477,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 478,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 479,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 480,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 481,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 482,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 483,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 484,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 485,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 486,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 487,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 488,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 489,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 490,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 491,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 492,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 493,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 494,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 495,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 496,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 497,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 498,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 499,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 500,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 501,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 502,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 503,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 504,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 505,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 506,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 507,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 508,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 509,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 510,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 511,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 512,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 513,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 514,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 515,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 516,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 517,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 518,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 519,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 520,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 521,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 522,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 523,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 524,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 525,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 526,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 527,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 528,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 529,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 530,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 531,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 532,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 533,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 534,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 535,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 536,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 537,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 538,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 539,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 540,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 541,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 542,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 543,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 544,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 545,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 546,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 547,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 548,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 549,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 550,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 551,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 552,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 553,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 554,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 555,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 556,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 557,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 558,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 559,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 560,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 561,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 562,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 563,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 564,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 565,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 566,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 567,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 568,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 569,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 570,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 571,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 572,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 573,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 574,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 575,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 576,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 577,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 578,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 579,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 580,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 581,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 582,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 583,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 584,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 585,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 586,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 587,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 588,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 589,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 590,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 591,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 592,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 593,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 594,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 595,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 596,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 597,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 598,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 599,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 600,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 601,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 602,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 603,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 604,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 605,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 606,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 607,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 608,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 609,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 610,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 611,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 612,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 613,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 614,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 615,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 616,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 617,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 618,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 619,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 620,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 621,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 622,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 623,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 624,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 625,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 626,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 627,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 628,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 629,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 630,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 631,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 632,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 633,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 634,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 635,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 636,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 637,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 638,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 639,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 640,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 641,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 642,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 643,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 644,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 645,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 646,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 647,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 648,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 649,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 650,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 651,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 652,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 653,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 654,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 655,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 656,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 657,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 658,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 659,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 660,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 661,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 662,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 663,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 664,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 665,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 666,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 667,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 668,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 669,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 670,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 671,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 672,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 673,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 674,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 675,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 676,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 677,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 678,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 679,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 680,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 681,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 682,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 683,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 684,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 685,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 686,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 687,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 688,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 689,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 690,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 691,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 692,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 693,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 694,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 695,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 696,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 697,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 698,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 699,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 700,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 701,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 702,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 703,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 704,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 705,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 706,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 707,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 708,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 709,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 710,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 711,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 712,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 713,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 714,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 715,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 716,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 717,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 718,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 719,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 720,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 721,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 722,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 723,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 724,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 725,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 726,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 727,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 728,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 729,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 730,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 731,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 732,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 733,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 734,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 735,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 736,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 737,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 738,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 739,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 740,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 741,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 742,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 743,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 744,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 745,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 746,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 747,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 748,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 749,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 750,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 751,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 752,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 753,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 754,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 755,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 756,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 757,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 758,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 759,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 760,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 761,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 762,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 763,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 764,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 765,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 766,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 767,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 768,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 769,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 770,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 771,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 772,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 773,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 774,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 775,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 776,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 777,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 778,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 779,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 780,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 781,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 782,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 783,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 784,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 785,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 786,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 787,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 788,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 789,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 790,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 791,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 792,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 793,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 794,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 795,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 796,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 797,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 798,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 799,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 800,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 801,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 802,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 803,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 804,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 805,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 806,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 807,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 808,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 809,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 810,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 811,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 812,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 813,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 814,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 815,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 816,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 817,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 818,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 819,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 820,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 821,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 822,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 823,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 824,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 825,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 826,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 827,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 828,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 829,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 830,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 831,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 832,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 833,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 834,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 835,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 836,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 837,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 838,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 839,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 840,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 841,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 842,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 843,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 844,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 845,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 846,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 847,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 848,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 849,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 850,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 851,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 852,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 853,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 854,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 855,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 856,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 857,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 858,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 859,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 860,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 861,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 862,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 863,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 864,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 865,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 866,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 867,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 868,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 869,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 870,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 871,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 872,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 873,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 874,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 875,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 876,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 877,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 878,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 879,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 880,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 881,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 882,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 883,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 884,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 885,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 886,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 887,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 888,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 889,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 890,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 891,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 892,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 893,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 894,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 895,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 896,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 897,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 898,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 899,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 900,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 901,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 902,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 903,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 904,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 905,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 906,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 907,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 908,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 909,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 910,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 911,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 912,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 913,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 914,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 915,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 916,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 917,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 918,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 919,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 920,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 921,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 922,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 923,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 924,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 925,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 926,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 927,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 928,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 929,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 930,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 931,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 932,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 933,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 934,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 935,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 936,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 937,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 938,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 939,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 940,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 941,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 942,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 943,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 944,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 945,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 946,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 947,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 948,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 949,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 950,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 951,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 952,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 953,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 954,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 955,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 956,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 957,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 958,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 959,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 960,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 961,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 962,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 963,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 964,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 965,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 966,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 967,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 968,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 969,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 970,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 971,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 972,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 973,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 974,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 975,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 976,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 977,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 978,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 979,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 980,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 981,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 982,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 983,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 984,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 985,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 986,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 987,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 988,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 989,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 990,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 991,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 992,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 993,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 994,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 995,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 996,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 997,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 998,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 999,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1000,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1001,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1002,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1003,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1004,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1005,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1006,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1007,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1008,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1009,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1010,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1011,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1012,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1013,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1014,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1015,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1016,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1017,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1018,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1019,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1020,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1021,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1022,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1023,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1024,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1025,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1026,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1027,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1028,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1029,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1030,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1031,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1032,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1033,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1034,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1035,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1036,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1037,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1038,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1039,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1040,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1041,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1042,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1043,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1044,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1045,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1046,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1047,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1048,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1049,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1050,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1051,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1052,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1053,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1054,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1055,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1056,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1057,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1058,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1059,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1060,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1061,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1062,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1063,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1064,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1065,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1066,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1067,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1068,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1069,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1070,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1071,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1072,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1073,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1074,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1075,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1076,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1077,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1078,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1079,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1080,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1081,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1082,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1083,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1084,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1085,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1086,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1087,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1088,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1089,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1090,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1091,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1092,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1093,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1094,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1095,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1096,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1097,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1098,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1099,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1100,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1101,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1102,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1103,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1104,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1105,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1106,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1107,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1108,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1109,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1110,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1111,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1112,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1113,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1114,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1115,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1116,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1117,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1118,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1119,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1120,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1121,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1122,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1123,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1124,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1125,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1126,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1127,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1128,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1129,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1130,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1131,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1132,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1133,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1134,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1135,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1136,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1137,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1138,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1139,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1140,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1141,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1142,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1143,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1144,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1145,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1146,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1147,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1148,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1149,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1150,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1151,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1152,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1153,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1154,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1155,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1156,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1157,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1158,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1159,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1160,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1161,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1162,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1163,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1164,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1165,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1166,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1167,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1168,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1169,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1170,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1171,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1172,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1173,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1174,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1175,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1176,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1177,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1178,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1179,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1180,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1181,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1182,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1183,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1184,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1185,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1186,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1187,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1188,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1189,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1190,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1191,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1192,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1193,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1194,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1195,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1196,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1197,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1198,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1199,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1200,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1201,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1202,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1203,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1204,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1205,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1206,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1207,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1208,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1209,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1210,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1211,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1212,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1213,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1214,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1215,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1216,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1217,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1218,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1219,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1220,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1221,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1222,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1223,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1224,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1225,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1226,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1227,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1228,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1229,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1230,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1231,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1232,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1233,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1234,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1235,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1236,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1237,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1238,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1239,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1240,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1241,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1242,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1243,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1244,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1245,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1246,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1247,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1248,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1249,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1250,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1251,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1252,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1253,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1254,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1255,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1256,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1257,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1258,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1259,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1260,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1261,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1262,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1263,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1264,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1265,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1266,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1267,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1268,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1269,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1270,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1271,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1272,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1273,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1274,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1275,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1276,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1277,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1278,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1279,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1280,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1281,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1282,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1283,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1284,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1285,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1286,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1287,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1288,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1289,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1290,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1291,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1292,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1293,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1294,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1295,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1296,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1297,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1298,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1299,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1300,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1301,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1302,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1303,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1304,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1305,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1306,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1307,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1308,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1309,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1310,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1311,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1312,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1313,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1314,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1315,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1316,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1317,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1318,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1319,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1320,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1321,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1322,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1323,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1324,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1325,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1326,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1327,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1328,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1329,
+   "presence_enseignement_magistral": "Presque toujours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1330,
+   "presence_enseignement_magistral": "Quasiment jamais",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1331,
+   "presence_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1332,
+   "presence_enseignement_magistral": "Au cas par cas",
+   "annee": "DFASM2"
+ }
+]

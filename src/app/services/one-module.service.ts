@@ -374,7 +374,7 @@ export class OneModuleService {
 
 		if (question === "question25") {
 			this.title = "Les contrôles continus sont plus utiles :"
-			this.xaxis = ["En début d'ED,\nobligeant un minimum\nde préparation\npersonnelle rendant\nl'ED plus performant", "En fin d'ED,\nvalorisant les acquis\nlors de la séance", "Sans avis"]
+			this.xaxis = ["En début d’ED,\nobligeant un minimum\nde préparation\npersonnelle rendant\nl’ED plus performant", "En fin d’ED,\nvalorisant les acquis\nlors de la séance", "Sans avis"]
 			this.subtitle = "Timing controles continus"
 
 			if (!this.year){
@@ -530,11 +530,13 @@ export class OneModuleService {
 			// this.xaxis.map((row,i) => {
 			// 	ar.push({name:row,data:[oneYear[i]]})
 			// })
-			oneYear = oneYear.sort((a,b)=> {
-				if (a.value > b.value) return 1
-				if (a.value < b.value) return -1
-				return 0
-			})
+			if (question == 'question23'){
+				oneYear = oneYear.sort((a,b)=> {
+					if (a.value > b.value) return 1
+					if (a.value < b.value) return -1
+					return 0
+				})
+			} 
 			this.xaxis = []
 			oneYear.map(item => this.xaxis.push(item.name))
 			this.legend = [this.year]

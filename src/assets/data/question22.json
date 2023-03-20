@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 2,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 3,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 4,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 5,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 6,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 7,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 8,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 9,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 10,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 11,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 12,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 13,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 14,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 15,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 16,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 17,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 18,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 19,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 20,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 21,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 22,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 23,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 24,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 25,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 26,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 27,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 28,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 29,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 30,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 31,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 32,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 33,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 34,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 35,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 36,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 37,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 38,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 39,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 40,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 41,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 42,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 43,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 44,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 45,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 46,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 47,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 48,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 49,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 50,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 51,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 52,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 53,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 54,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 55,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 56,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 57,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 58,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 59,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 60,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 61,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 62,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 63,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 64,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 65,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 66,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 67,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 68,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 69,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 70,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 71,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 72,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 73,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 74,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 75,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 76,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 77,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 78,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 79,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 80,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 81,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 82,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 83,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 84,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 85,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 86,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 87,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 88,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 89,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 90,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 91,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 92,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 93,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 94,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 95,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 96,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 97,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 98,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 99,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 100,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 101,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 102,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 103,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 104,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 105,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 106,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 107,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 108,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 109,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 110,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 111,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 112,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 113,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 114,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 115,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 116,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 117,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 118,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 119,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 120,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 121,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 122,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 123,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 124,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 125,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 126,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 127,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 128,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 129,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 130,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 131,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 132,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 133,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 134,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 135,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 136,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 137,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 138,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 139,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 140,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 141,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 142,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 143,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 144,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 145,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 146,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 147,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 148,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 149,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 150,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 151,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 152,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 153,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 154,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 155,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 156,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 157,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 158,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 159,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 160,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 161,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 162,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 163,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 164,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 165,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 166,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 167,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 168,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 169,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 170,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 171,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 172,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 173,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 174,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 175,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 176,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 177,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 178,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 179,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 180,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 181,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 182,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 183,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 184,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 185,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 186,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 187,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 188,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 189,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 190,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 191,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 192,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 193,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 194,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 195,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 196,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 197,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 198,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 199,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 200,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 201,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 202,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 203,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 204,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 205,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 206,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 207,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 208,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 209,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 210,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 211,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 212,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 213,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 214,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 215,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 216,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 217,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 218,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 219,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 220,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 221,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 222,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 223,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 224,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 225,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 226,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 227,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 228,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 229,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 230,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 231,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 232,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 233,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 234,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 235,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 236,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 237,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 238,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 239,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 240,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 241,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 242,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 243,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 244,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 245,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 246,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 247,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 248,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 249,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 250,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 251,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 252,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 253,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 254,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 255,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 256,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 257,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 258,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 259,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 260,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 261,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 262,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 263,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 264,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 265,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 266,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 267,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 268,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 269,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 270,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 271,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 272,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 273,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 274,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 275,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 276,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 277,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 278,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 279,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 280,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 281,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 282,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 283,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 284,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 285,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 286,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 287,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 288,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 289,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 290,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 291,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 292,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 293,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 294,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 295,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 296,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 297,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 298,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 299,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 300,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 301,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 302,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 303,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 304,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 305,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 306,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 307,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 308,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 309,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 310,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 311,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 312,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 313,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 314,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 315,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 316,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 317,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 318,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 319,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 320,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 321,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 322,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 323,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 324,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 325,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 326,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 327,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 328,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 329,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 330,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 331,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 332,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 333,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 334,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 335,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 336,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 337,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 338,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 339,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 340,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 341,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 342,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 343,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 344,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 345,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 346,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 347,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 348,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 349,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 350,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 351,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 352,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 353,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 354,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 355,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 356,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 357,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 358,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 359,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 360,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 361,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 362,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 363,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 364,
+   "annee": "DFGSM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 365,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 366,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 367,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 368,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 369,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 370,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 371,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 372,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 373,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 374,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 375,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 376,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 377,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 378,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 379,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 380,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 381,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 382,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 383,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 384,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 385,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 386,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 387,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 388,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 389,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 390,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 391,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 392,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 393,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 394,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 395,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 396,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 397,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 398,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 399,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 400,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 401,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 402,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 403,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 404,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 405,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 406,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 407,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 408,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 409,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 410,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 411,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 412,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 413,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 414,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 415,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 416,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 417,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 418,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 419,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 420,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 421,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 422,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 423,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 424,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 425,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 426,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 427,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 428,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 429,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 430,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 431,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 432,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 433,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 434,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 435,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 436,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 437,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 438,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 439,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 440,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 441,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 442,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 443,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 444,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 445,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 446,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 447,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 448,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 449,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 450,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 451,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 452,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 453,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 454,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 455,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 456,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 457,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 458,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 459,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 460,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 461,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 462,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 463,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 464,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 465,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 466,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 467,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 468,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 469,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 470,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 471,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 472,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 473,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 474,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 475,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 476,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 477,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 478,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 479,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 480,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 481,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 482,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 483,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 484,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 485,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 486,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 487,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 488,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 489,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 490,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 491,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 492,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 493,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 494,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 495,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 496,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 497,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 498,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 499,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 500,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 501,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 502,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 503,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 504,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 505,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 506,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 507,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 508,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 509,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 510,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 511,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 512,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 513,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 514,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 515,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 516,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 517,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 518,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 519,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 520,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 521,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 522,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 523,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 524,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 525,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 526,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 527,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 528,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 529,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 530,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 531,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 532,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 533,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 534,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 535,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 536,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 537,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 538,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 539,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 540,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 541,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 542,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 543,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 544,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 545,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 546,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 547,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 548,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 549,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 550,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 551,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 552,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 553,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 554,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 555,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 556,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 557,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 558,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 559,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 560,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 561,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 562,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 563,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 564,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 565,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 566,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 567,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 568,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 569,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 570,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 571,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 572,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 573,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 574,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 575,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 576,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 577,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 578,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 579,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 580,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 581,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 582,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 583,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 584,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 585,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 586,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 587,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 588,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 589,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 590,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 591,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 592,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 593,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 594,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 595,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 596,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 597,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 598,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 599,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 600,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 601,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 602,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 603,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 604,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 605,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 606,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 607,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 608,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 609,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 610,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 611,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 612,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 613,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 614,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 615,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 616,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 617,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 618,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 619,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 620,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 621,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 622,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 623,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 624,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 625,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 626,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 627,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 628,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 629,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 630,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 631,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 632,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 633,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 634,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 635,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 636,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 637,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 638,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 639,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 640,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 641,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 642,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 643,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 644,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 645,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 646,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 647,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 648,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 649,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 650,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 651,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 652,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 653,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 654,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 655,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 656,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 657,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 658,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 659,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 660,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 661,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 662,
+   "annee": "DFGSM3",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 663,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 664,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 665,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 666,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 667,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 668,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 669,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 670,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 671,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 672,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 673,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 674,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 675,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 676,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 677,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 678,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 679,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 680,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 681,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 682,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 683,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 684,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 685,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 686,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 687,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 688,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 689,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 690,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 691,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 692,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 693,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 694,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 695,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 696,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 697,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 698,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 699,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 700,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 701,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 702,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 703,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 704,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 705,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 706,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 707,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 708,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 709,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 710,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 711,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 712,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 713,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 714,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 715,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 716,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 717,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 718,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 719,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 720,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 721,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 722,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 723,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 724,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 725,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 726,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 727,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 728,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 729,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 730,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 731,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 732,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 733,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 734,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 735,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 736,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 737,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 738,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 739,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 740,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 741,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 742,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 743,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 744,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 745,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 746,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 747,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 748,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 749,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 750,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 751,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 752,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 753,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 754,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 755,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 756,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 757,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 758,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 759,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 760,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 761,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 762,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 763,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 764,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 765,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 766,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 767,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 768,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 769,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 770,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 771,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 772,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 773,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 774,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 775,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 776,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 777,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 778,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 779,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 780,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 781,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 782,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 783,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 784,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 785,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 786,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 787,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 788,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 789,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 790,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 791,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 792,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 793,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 794,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 795,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 796,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 797,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 798,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 799,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 800,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 801,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 802,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 803,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 804,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 805,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 806,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 807,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 808,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 809,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 810,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 811,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 812,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 813,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 814,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 815,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 816,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 817,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 818,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 819,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 820,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 821,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 822,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 823,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 824,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 825,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 826,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 827,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 828,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 829,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 830,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 831,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 832,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 833,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 834,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 835,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 836,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 837,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 838,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 839,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 840,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 841,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 842,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 843,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 844,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 845,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 846,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 847,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 848,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 849,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 850,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 851,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 852,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 853,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 854,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 855,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 856,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 857,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 858,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 859,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 860,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 861,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 862,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 863,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 864,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 865,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 866,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 867,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 868,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 869,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 870,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 871,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 872,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 873,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 874,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 875,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 876,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 877,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 878,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 879,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 880,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 881,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 882,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 883,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 884,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 885,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 886,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 887,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 888,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 889,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 890,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 891,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 892,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 893,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 894,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 895,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 896,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 897,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 898,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 899,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 900,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 901,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 902,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 903,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 904,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 905,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 906,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 907,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 908,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 909,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 910,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 911,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 912,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 913,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 914,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 915,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 916,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 917,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 918,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 919,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 920,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 921,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 922,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 923,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 924,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 925,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 926,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 927,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 928,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 929,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 930,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 931,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 932,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 933,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 934,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 935,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 936,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 937,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 938,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 939,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 940,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 941,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 942,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 943,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 944,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 945,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 946,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 947,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 948,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 949,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 950,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 951,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 952,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 953,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 954,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 955,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 956,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 957,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 958,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 959,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 960,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 961,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 962,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 963,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 964,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 965,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 966,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 967,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 968,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 969,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 970,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 971,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 972,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 973,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 974,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 975,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 976,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 977,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 978,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 979,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 980,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 981,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 982,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 983,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 984,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 985,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 986,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 987,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 988,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 989,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 990,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 991,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 992,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 993,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 994,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 995,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 996,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 997,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 998,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 999,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1000,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1001,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1002,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1003,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1004,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1005,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1006,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1007,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1008,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1009,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1010,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1011,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1012,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1013,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1014,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1015,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1016,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1017,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1018,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1019,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1020,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1021,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1022,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1023,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1024,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1025,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1026,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1027,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1028,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1029,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1030,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1031,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1032,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1033,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1034,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1035,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1036,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1037,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1038,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1039,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1040,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1041,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1042,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1043,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1044,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1045,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1046,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1047,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1048,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1049,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1050,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1051,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1052,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1053,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1054,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1055,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1056,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1057,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1058,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1059,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1060,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1061,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1062,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1063,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1064,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1065,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1066,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1067,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1068,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1069,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1070,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1071,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1072,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1073,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1074,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1075,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1076,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1077,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1078,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1079,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1080,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1081,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1082,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1083,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1084,
+   "annee": "DFASM1",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1085,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1086,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1087,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1088,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1089,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1090,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1091,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1092,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1093,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1094,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1095,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1096,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1097,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1098,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1099,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1100,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1101,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1102,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1103,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1104,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1105,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1106,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1107,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1108,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1109,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1110,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1111,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1112,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1113,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1114,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1115,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1116,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1117,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1118,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1119,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1120,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1121,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1122,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1123,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1124,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1125,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1126,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1127,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1128,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1129,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1130,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1131,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1132,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1133,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1134,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1135,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1136,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1137,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1138,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1139,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1140,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1141,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1142,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1143,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1144,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1145,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1146,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1147,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1148,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1149,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1150,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1151,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1152,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1153,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1154,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1155,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1156,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1157,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1158,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1159,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1160,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1161,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1162,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1163,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1164,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1165,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1166,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1167,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1168,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1169,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1170,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1171,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1172,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1173,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1174,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1175,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1176,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1177,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1178,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1179,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1180,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1181,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1182,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1183,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1184,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1185,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1186,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1187,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1188,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1189,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1190,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1191,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1192,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1193,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1194,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1195,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1196,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1197,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1198,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1199,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1200,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1201,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1202,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1203,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1204,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1205,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1206,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1207,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1208,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1209,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1210,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1211,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1212,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1213,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1214,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1215,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1216,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1217,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1218,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1219,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1220,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1221,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1222,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1223,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1224,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1225,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1226,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1227,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1228,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1229,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1230,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1231,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1232,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1233,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1234,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1235,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1236,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1237,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1238,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1239,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1240,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1241,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1242,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1243,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1244,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1245,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1246,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1247,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1248,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1249,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1250,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1251,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1252,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1253,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1254,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1255,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1256,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1257,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1258,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1259,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1260,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1261,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1262,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1263,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1264,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1265,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1266,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1267,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1268,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1269,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1270,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1271,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1272,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1273,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1274,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1275,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1276,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1277,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1278,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1279,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1280,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1281,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1282,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1283,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1284,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1285,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1286,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1287,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1288,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1289,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1290,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1291,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1292,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1293,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1294,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1295,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1296,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1297,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1298,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1299,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1300,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1301,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1302,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1303,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1304,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1305,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1306,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1307,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1308,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1309,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1310,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1311,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1312,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1313,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1314,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1315,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1316,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1317,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1318,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1319,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1320,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1321,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1322,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1323,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Sans avis"
+ },
+ {
+   "id": 1324,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1325,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1326,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1327,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen amphi\n(grand groupe)"
+ },
+ {
+   "id": 1328,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1329,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1330,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ },
+ {
+   "id": 1331,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "empty"
+ },
+ {
+   "id": 1332,
+   "annee": "DFASM2",
+   "preference_interactivite_presentiel": "Un enseignement\nen salles\n(petits groupes)"
+ }
+]

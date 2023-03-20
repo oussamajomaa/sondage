@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 2,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 3,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 4,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 5,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 6,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 7,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 8,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 9,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 10,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 11,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 12,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 13,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 14,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 15,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 16,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 17,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 18,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 19,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 20,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 21,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 22,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 23,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 24,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 25,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 26,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 27,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 28,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 29,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 30,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 31,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 32,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 33,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 34,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 35,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 36,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 37,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 38,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 39,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 40,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 41,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 42,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 43,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 44,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 45,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 46,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 47,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 48,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 49,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 50,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 51,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 52,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 53,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 54,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 55,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 56,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 57,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 58,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 59,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 60,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 61,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 62,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 63,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 64,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 65,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 66,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 67,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 68,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 69,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 70,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 71,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 72,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 73,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 74,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 75,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 76,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 77,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 78,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 79,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 80,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 81,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 82,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 83,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 84,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 85,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 86,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 87,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 88,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 89,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 90,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 91,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 92,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 93,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 94,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 95,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 96,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 97,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 98,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 99,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 100,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 101,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 102,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 103,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 104,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 105,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 106,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 107,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 108,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 109,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 110,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 111,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 112,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 113,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 114,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 115,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 116,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 117,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 118,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 119,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 120,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 121,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 122,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 123,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 124,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 125,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 126,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 127,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 128,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 129,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 130,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 131,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 132,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 133,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 134,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 135,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 136,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 137,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 138,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 139,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 140,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 141,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 142,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 143,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 144,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 145,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 146,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 147,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 148,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 149,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 150,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 151,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 152,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 153,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 154,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 155,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 156,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 157,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 158,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 159,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 160,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 161,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 162,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 163,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 164,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 165,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 166,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 167,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 168,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 169,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 170,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 171,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 172,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 173,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 174,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 175,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 176,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 177,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 178,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 179,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 180,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 181,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 182,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 183,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 184,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 185,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 186,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 187,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 188,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 189,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 190,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 191,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 192,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 193,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 194,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 195,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 196,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 197,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 198,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 199,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 200,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 201,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 202,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 203,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 204,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 205,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 206,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 207,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 208,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 209,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 210,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 211,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 212,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 213,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 214,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 215,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 216,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 217,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 218,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 219,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 220,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 221,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 222,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 223,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 224,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 225,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 226,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 227,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 228,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 229,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 230,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 231,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 232,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 233,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 234,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 235,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 236,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 237,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 238,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 239,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 240,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 241,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 242,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 243,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 244,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 245,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 246,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 247,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 248,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 249,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 250,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 251,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 252,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 253,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 254,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 255,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 256,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 257,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 258,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 259,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 260,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 261,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 262,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 263,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 264,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 265,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 266,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 267,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 268,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 269,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 270,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 271,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 272,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 273,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 274,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 275,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 276,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 277,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 278,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 279,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 280,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 281,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 282,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 283,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 284,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 285,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 286,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 287,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 288,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 289,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 290,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 291,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 292,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 293,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 294,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 295,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 296,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 297,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 298,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 299,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 300,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 301,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 302,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 303,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 304,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 305,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 306,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 307,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 308,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 309,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 310,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 311,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 312,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 313,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 314,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 315,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 316,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 317,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 318,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 319,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 320,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 321,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 322,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 323,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 324,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 325,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 326,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 327,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 328,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 329,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 330,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 331,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 332,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 333,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 334,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 335,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 336,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 337,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 338,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 339,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 340,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 341,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 342,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 343,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 344,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 345,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 346,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 347,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 348,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 349,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 350,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 351,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 352,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 353,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 354,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 355,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 356,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 357,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 358,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 359,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 360,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 361,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 362,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 363,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 364,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 365,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 366,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 367,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 368,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 369,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 370,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 371,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 372,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 373,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 374,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 375,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 376,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 377,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 378,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 379,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 380,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 381,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 382,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 383,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 384,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 385,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 386,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 387,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 388,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 389,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 390,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 391,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 392,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 393,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 394,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 395,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 396,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 397,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 398,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 399,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 400,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 401,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 402,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 403,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 404,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 405,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 406,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 407,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 408,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 409,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 410,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 411,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 412,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 413,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 414,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 415,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 416,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 417,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 418,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 419,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 420,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 421,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 422,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 423,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 424,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 425,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 426,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 427,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 428,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 429,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 430,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 431,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 432,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 433,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 434,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 435,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 436,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 437,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 438,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 439,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 440,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 441,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 442,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 443,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 444,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 445,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 446,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 447,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 448,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 449,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 450,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 451,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 452,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 453,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 454,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 455,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 456,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 457,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 458,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 459,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 460,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 461,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 462,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 463,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 464,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 465,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 466,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 467,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 468,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 469,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 470,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 471,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 472,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 473,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 474,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 475,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 476,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 477,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 478,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 479,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 480,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 481,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 482,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 483,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 484,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 485,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 486,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 487,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 488,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 489,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 490,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 491,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 492,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 493,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 494,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 495,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 496,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 497,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 498,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 499,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 500,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 501,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 502,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 503,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 504,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 505,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 506,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 507,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 508,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 509,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 510,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 511,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 512,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 513,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 514,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 515,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 516,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 517,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 518,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 519,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 520,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 521,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 522,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 523,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 524,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 525,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 526,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 527,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 528,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 529,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 530,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 531,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 532,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 533,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 534,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 535,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 536,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 537,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 538,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 539,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 540,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 541,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 542,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 543,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 544,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 545,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 546,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 547,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 548,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 549,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 550,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 551,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 552,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 553,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 554,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 555,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 556,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 557,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 558,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 559,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 560,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 561,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 562,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 563,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 564,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 565,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 566,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 567,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 568,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 569,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 570,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 571,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 572,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 573,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 574,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 575,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 576,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 577,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 578,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 579,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 580,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 581,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 582,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 583,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 584,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 585,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 586,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 587,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 588,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 589,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 590,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 591,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 592,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 593,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 594,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 595,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 596,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 597,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 598,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 599,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 600,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 601,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 602,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 603,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 604,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 605,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 606,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 607,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 608,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 609,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 610,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 611,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 612,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 613,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 614,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 615,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 616,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 617,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 618,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 619,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 620,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 621,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 622,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 623,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 624,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 625,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 626,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 627,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 628,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 629,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 630,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 631,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 632,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 633,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 634,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 635,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 636,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 637,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 638,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 639,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 640,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 641,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 642,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 643,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 644,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 645,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 646,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 647,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 648,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 649,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 650,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 651,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 652,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 653,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 654,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 655,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 656,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 657,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 658,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 659,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 660,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 661,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 662,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 663,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 664,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 665,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 666,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 667,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 668,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 669,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 670,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 671,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 672,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 673,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 674,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 675,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 676,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 677,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 678,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 679,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 680,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 681,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 682,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 683,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 684,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 685,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 686,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 687,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 688,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 689,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 690,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 691,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 692,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 693,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 694,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 695,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 696,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 697,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 698,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 699,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 700,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 701,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 702,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 703,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 704,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 705,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 706,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 707,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 708,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 709,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 710,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 711,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 712,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 713,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 714,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 715,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 716,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 717,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 718,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 719,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 720,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 721,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 722,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 723,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 724,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 725,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 726,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 727,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 728,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 729,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 730,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 731,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 732,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 733,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 734,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 735,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 736,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 737,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 738,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 739,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 740,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 741,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 742,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 743,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 744,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 745,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 746,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 747,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 748,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 749,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 750,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 751,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 752,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 753,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 754,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 755,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 756,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 757,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 758,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 759,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 760,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 761,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 762,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 763,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 764,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 765,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 766,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 767,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 768,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 769,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 770,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 771,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 772,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 773,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 774,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 775,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 776,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 777,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 778,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 779,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 780,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 781,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 782,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 783,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 784,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 785,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 786,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 787,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 788,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 789,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 790,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 791,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 792,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 793,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 794,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 795,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 796,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 797,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 798,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 799,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 800,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 801,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 802,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 803,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 804,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 805,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 806,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 807,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 808,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 809,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 810,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 811,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 812,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 813,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 814,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 815,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 816,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 817,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 818,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 819,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 820,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 821,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 822,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 823,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 824,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 825,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 826,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 827,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 828,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 829,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 830,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 831,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 832,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 833,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 834,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 835,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 836,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 837,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 838,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 839,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 840,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 841,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 842,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 843,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 844,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 845,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 846,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 847,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 848,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 849,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 850,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 851,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 852,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 853,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 854,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 855,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 856,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 857,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 858,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 859,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 860,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 861,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 862,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 863,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 864,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 865,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 866,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 867,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 868,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 869,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 870,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 871,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 872,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 873,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 874,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 875,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 876,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 877,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 878,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 879,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 880,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 881,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 882,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 883,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 884,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 885,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 886,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 887,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 888,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 889,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 890,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 891,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 892,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 893,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 894,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 895,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 896,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 897,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 898,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 899,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 900,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 901,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 902,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 903,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 904,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 905,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 906,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 907,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 908,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 909,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 910,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 911,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 912,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 913,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 914,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 915,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 916,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 917,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 918,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 919,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 920,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 921,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 922,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 923,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 924,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 925,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 926,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 927,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 928,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 929,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 930,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 931,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 932,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 933,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 934,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 935,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 936,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 937,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 938,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 939,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 940,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 941,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 942,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 943,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 944,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 945,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 946,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 947,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 948,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 949,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 950,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 951,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 952,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 953,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 954,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 955,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 956,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 957,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 958,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 959,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 960,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 961,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 962,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 963,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 964,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 965,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 966,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 967,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 968,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 969,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 970,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 971,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 972,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 973,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 974,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 975,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 976,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 977,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 978,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 979,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 980,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 981,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 982,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 983,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 984,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 985,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 986,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 987,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 988,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 989,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 990,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 991,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 992,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 993,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 994,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 995,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 996,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 997,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 998,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 999,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1000,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1001,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1002,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1003,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1004,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1005,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1006,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1007,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1008,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1009,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1010,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1011,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1012,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1013,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1014,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1015,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1016,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1017,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1018,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1019,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1020,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1021,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1022,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1023,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1024,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1025,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1026,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1027,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1028,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1029,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1030,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1031,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1032,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1033,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1034,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1035,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1036,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1037,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1038,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1039,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1040,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1041,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1042,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1043,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1044,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1045,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1046,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1047,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1048,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1049,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1050,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1051,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1052,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1053,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1054,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1055,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1056,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1057,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1058,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1059,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1060,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1061,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1062,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1063,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1064,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1065,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1066,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1067,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1068,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1069,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1070,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1071,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1072,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1073,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1074,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1075,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1076,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1077,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1078,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1079,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1080,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1081,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1082,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1083,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1084,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1085,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1086,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1087,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1088,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1089,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1090,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1091,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1092,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1093,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1094,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1095,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1096,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1097,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1098,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1099,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1100,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1101,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1102,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1103,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1104,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1105,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1106,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1107,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1108,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1109,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1110,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1111,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1112,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1113,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1114,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1115,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1116,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1117,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1118,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1119,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1120,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1121,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1122,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1123,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1124,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1125,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1126,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1127,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1128,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1129,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1130,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1131,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1132,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1133,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1134,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1135,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1136,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1137,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1138,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1139,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1140,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1141,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1142,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1143,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1144,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1145,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1146,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1147,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1148,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1149,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1150,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1151,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1152,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1153,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1154,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1155,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1156,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1157,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1158,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1159,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1160,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1161,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1162,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1163,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1164,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1165,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1166,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1167,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1168,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1169,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1170,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1171,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1172,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1173,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1174,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1175,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1176,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1177,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1178,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1179,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1180,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1181,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1182,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1183,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1184,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1185,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1186,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1187,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1188,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1189,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1190,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1191,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1192,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1193,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1194,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1195,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1196,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1197,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1198,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1199,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1200,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1201,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1202,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1203,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1204,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1205,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1206,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1207,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1208,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1209,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1210,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1211,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1212,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1213,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1214,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1215,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1216,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1217,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1218,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1219,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1220,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1221,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1222,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1223,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1224,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1225,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1226,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1227,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1228,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1229,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1230,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1231,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1232,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1233,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1234,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1235,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1236,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1237,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1238,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1239,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1240,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1241,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1242,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1243,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1244,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1245,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1246,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1247,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1248,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1249,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1250,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1251,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1252,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1253,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1254,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1255,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1256,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1257,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1258,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1259,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1260,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1261,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1262,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1263,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1264,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1265,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1266,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1267,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1268,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1269,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1270,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1271,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1272,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1273,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1274,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1275,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1276,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1277,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1278,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1279,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1280,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1281,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1282,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1283,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1284,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1285,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1286,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1287,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1288,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1289,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1290,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1291,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1292,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1293,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1294,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1295,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1296,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1297,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1298,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1299,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1300,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1301,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1302,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1303,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1304,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1305,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1306,
+   "volume_enseignement_magistralResponse": "L'augmenter",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1307,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1308,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1309,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1310,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1311,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1312,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1313,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1314,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1315,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1316,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1317,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1318,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1319,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1320,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1321,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1322,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1323,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1324,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1325,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1326,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1327,
+   "volume_enseignement_magistralResponse": "Sans avis",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1328,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1329,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1330,
+   "volume_enseignement_magistralResponse": "Le laisser inchangé",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1331,
+   "volume_enseignement_magistralResponse":  "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1332,
+   "volume_enseignement_magistralResponse": "Le réduire",
+   "annee": "DFASM2"
+ }
+]

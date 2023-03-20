@@ -1,0 +1,6662 @@
+[
+ {
+   "id": 1,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 2,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 3,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 4,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 5,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 6,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 7,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 8,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 9,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 10,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 11,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 12,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 13,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 14,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 15,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 16,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 17,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 18,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 19,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 20,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 21,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 22,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 23,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 24,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 25,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 26,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 27,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 28,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 29,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 30,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 31,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 32,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 33,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 34,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 35,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 36,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 37,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 38,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 39,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 40,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 41,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 42,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 43,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 44,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 45,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 46,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 47,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 48,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 49,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 50,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 51,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 52,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 53,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 54,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 55,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 56,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 57,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 58,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 59,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 60,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 61,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 62,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 63,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 64,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 65,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 66,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 67,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 68,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 69,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 70,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 71,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 72,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 73,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 74,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 75,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 76,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 77,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 78,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 79,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 80,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 81,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 82,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 83,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 84,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 85,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 86,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 87,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 88,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 89,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 90,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 91,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 92,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 93,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 94,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 95,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 96,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 97,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 98,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 99,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 100,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 101,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 102,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 103,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 104,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 105,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 106,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 107,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 108,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 109,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 110,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 111,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 112,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 113,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 114,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 115,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 116,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 117,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 118,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 119,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 120,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 121,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 122,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 123,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 124,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 125,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 126,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 127,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 128,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 129,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 130,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 131,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 132,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 133,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 134,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 135,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 136,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 137,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 138,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 139,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 140,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 141,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 142,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 143,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 144,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 145,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 146,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 147,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 148,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 149,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 150,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 151,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 152,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 153,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 154,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 155,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 156,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 157,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 158,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 159,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 160,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 161,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 162,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 163,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 164,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 165,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 166,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 167,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 168,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 169,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 170,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 171,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 172,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 173,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 174,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 175,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 176,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 177,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 178,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 179,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 180,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 181,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 182,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 183,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 184,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 185,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 186,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 187,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 188,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 189,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 190,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 191,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 192,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 193,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 194,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 195,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 196,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 197,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 198,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 199,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 200,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 201,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 202,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 203,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 204,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 205,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 206,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 207,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 208,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 209,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 210,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 211,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 212,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 213,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 214,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 215,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 216,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 217,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 218,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 219,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 220,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 221,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 222,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 223,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 224,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 225,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 226,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 227,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 228,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 229,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 230,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 231,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 232,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 233,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 234,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 235,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 236,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 237,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 238,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 239,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 240,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 241,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 242,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 243,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 244,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 245,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 246,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 247,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 248,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 249,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 250,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 251,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 252,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 253,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 254,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 255,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 256,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 257,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 258,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 259,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 260,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 261,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 262,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 263,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 264,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 265,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 266,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 267,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 268,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 269,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 270,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 271,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 272,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 273,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 274,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 275,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 276,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 277,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 278,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 279,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 280,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 281,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 282,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 283,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 284,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 285,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 286,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 287,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 288,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 289,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 290,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 291,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 292,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 293,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 294,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 295,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 296,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 297,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 298,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 299,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 300,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 301,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 302,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 303,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 304,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 305,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 306,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 307,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 308,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 309,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 310,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 311,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 312,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 313,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 314,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 315,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 316,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 317,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 318,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 319,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 320,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 321,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 322,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 323,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 324,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 325,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 326,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 327,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 328,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 329,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 330,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 331,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 332,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 333,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 334,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 335,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 336,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 337,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 338,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 339,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 340,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 341,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 342,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 343,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 344,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 345,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 346,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 347,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 348,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 349,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 350,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 351,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 352,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 353,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 354,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 355,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 356,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 357,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 358,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 359,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 360,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 361,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 362,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 363,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 364,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM2"
+ },
+ {
+   "id": 365,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 366,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 367,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 368,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 369,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 370,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 371,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 372,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 373,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 374,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 375,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 376,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 377,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 378,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 379,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 380,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 381,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 382,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 383,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 384,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 385,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 386,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 387,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 388,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 389,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 390,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 391,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 392,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 393,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 394,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 395,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 396,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 397,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 398,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 399,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 400,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 401,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 402,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 403,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 404,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 405,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 406,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 407,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 408,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 409,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 410,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 411,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 412,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 413,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 414,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 415,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 416,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 417,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 418,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 419,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 420,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 421,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 422,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 423,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 424,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 425,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 426,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 427,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 428,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 429,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 430,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 431,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 432,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 433,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 434,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 435,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 436,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 437,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 438,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 439,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 440,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 441,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 442,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 443,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 444,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 445,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 446,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 447,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 448,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 449,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 450,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 451,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 452,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 453,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 454,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 455,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 456,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 457,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 458,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 459,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 460,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 461,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 462,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 463,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 464,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 465,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 466,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 467,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 468,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 469,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 470,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 471,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 472,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 473,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 474,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 475,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 476,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 477,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 478,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 479,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 480,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 481,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 482,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 483,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 484,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 485,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 486,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 487,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 488,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 489,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 490,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 491,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 492,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 493,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 494,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 495,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 496,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 497,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 498,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 499,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 500,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 501,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 502,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 503,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 504,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 505,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 506,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 507,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 508,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 509,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 510,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 511,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 512,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 513,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 514,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 515,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 516,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 517,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 518,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 519,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 520,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 521,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 522,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 523,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 524,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 525,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 526,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 527,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 528,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 529,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 530,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 531,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 532,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 533,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 534,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 535,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 536,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 537,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 538,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 539,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 540,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 541,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 542,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 543,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 544,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 545,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 546,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 547,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 548,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 549,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 550,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 551,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 552,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 553,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 554,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 555,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 556,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 557,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 558,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 559,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 560,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 561,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 562,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 563,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 564,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 565,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 566,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 567,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 568,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 569,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 570,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 571,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 572,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 573,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 574,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 575,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 576,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 577,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 578,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 579,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 580,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 581,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 582,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 583,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 584,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 585,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 586,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 587,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 588,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 589,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 590,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 591,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 592,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 593,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 594,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 595,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 596,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 597,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 598,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 599,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 600,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 601,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 602,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 603,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 604,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 605,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 606,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 607,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 608,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 609,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 610,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 611,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 612,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 613,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 614,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 615,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 616,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 617,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 618,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 619,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 620,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 621,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 622,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 623,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 624,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 625,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 626,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 627,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 628,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 629,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 630,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 631,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 632,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 633,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 634,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 635,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 636,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 637,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 638,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 639,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 640,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 641,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 642,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 643,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 644,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 645,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 646,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 647,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 648,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 649,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 650,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 651,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 652,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 653,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 654,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 655,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 656,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 657,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 658,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 659,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 660,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 661,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 662,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFGSM3"
+ },
+ {
+   "id": 663,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 664,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 665,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 666,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 667,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 668,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 669,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 670,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 671,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 672,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 673,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 674,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 675,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 676,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 677,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 678,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 679,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 680,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 681,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 682,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 683,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 684,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 685,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 686,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 687,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 688,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 689,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 690,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 691,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 692,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 693,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 694,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 695,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 696,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 697,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 698,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 699,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 700,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 701,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 702,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 703,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 704,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 705,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 706,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 707,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 708,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 709,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 710,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 711,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 712,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 713,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 714,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 715,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 716,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 717,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 718,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 719,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 720,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 721,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 722,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 723,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 724,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 725,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 726,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 727,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 728,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 729,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 730,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 731,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 732,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 733,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 734,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 735,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 736,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 737,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 738,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 739,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 740,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 741,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 742,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 743,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 744,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 745,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 746,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 747,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 748,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 749,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 750,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 751,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 752,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 753,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 754,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 755,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 756,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 757,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 758,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 759,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 760,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 761,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 762,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 763,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 764,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 765,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 766,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 767,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 768,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 769,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 770,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 771,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 772,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 773,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 774,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 775,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 776,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 777,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 778,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 779,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 780,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 781,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 782,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 783,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 784,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 785,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 786,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 787,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 788,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 789,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 790,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 791,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 792,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 793,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 794,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 795,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 796,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 797,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 798,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 799,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 800,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 801,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 802,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 803,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 804,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 805,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 806,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 807,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 808,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 809,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 810,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 811,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 812,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 813,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 814,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 815,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 816,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 817,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 818,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 819,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 820,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 821,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 822,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 823,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 824,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 825,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 826,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 827,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 828,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 829,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 830,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 831,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 832,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 833,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 834,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 835,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 836,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 837,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 838,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 839,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 840,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 841,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 842,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 843,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 844,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 845,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 846,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 847,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 848,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 849,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 850,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 851,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 852,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 853,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 854,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 855,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 856,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 857,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 858,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 859,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 860,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 861,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 862,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 863,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 864,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 865,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 866,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 867,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 868,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 869,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 870,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 871,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 872,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 873,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 874,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 875,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 876,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 877,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 878,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 879,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 880,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 881,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 882,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 883,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 884,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 885,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 886,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 887,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 888,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 889,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 890,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 891,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 892,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 893,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 894,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 895,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 896,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 897,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 898,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 899,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 900,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 901,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 902,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 903,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 904,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 905,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 906,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 907,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 908,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 909,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 910,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 911,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 912,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 913,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 914,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 915,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 916,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 917,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 918,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 919,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 920,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 921,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 922,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 923,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 924,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 925,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 926,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 927,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 928,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 929,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 930,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 931,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 932,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 933,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 934,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 935,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 936,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 937,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 938,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 939,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 940,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 941,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 942,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 943,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 944,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 945,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 946,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 947,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 948,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 949,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 950,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 951,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 952,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 953,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 954,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 955,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 956,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 957,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 958,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 959,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 960,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 961,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 962,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 963,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 964,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 965,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 966,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 967,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 968,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 969,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 970,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 971,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 972,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 973,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 974,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 975,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 976,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 977,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 978,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 979,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 980,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 981,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 982,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 983,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 984,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 985,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 986,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 987,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 988,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 989,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 990,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 991,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 992,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 993,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 994,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 995,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 996,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 997,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 998,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 999,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1000,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1001,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1002,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1003,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1004,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1005,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1006,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1007,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1008,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1009,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1010,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1011,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1012,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1013,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1014,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1015,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1016,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1017,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1018,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1019,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1020,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1021,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1022,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1023,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1024,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1025,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1026,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1027,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1028,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1029,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1030,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1031,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1032,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1033,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1034,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1035,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1036,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1037,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1038,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1039,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1040,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1041,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1042,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1043,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1044,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1045,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1046,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1047,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1048,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1049,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1050,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1051,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1052,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1053,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1054,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1055,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1056,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1057,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1058,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1059,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1060,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1061,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1062,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1063,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1064,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1065,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1066,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1067,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1068,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1069,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1070,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1071,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1072,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1073,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1074,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1075,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1076,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1077,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1078,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1079,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1080,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1081,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1082,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1083,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1084,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM1"
+ },
+ {
+   "id": 1085,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1086,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1087,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1088,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1089,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1090,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1091,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1092,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1093,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1094,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1095,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1096,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1097,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1098,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1099,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1100,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1101,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1102,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1103,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1104,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1105,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1106,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1107,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1108,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1109,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1110,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1111,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1112,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1113,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1114,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1115,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1116,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1117,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1118,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1119,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1120,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1121,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1122,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1123,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1124,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1125,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1126,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1127,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1128,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1129,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1130,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1131,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1132,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1133,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1134,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1135,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1136,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1137,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1138,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1139,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1140,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1141,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1142,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1143,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1144,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1145,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1146,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1147,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1148,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1149,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1150,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1151,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1152,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1153,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1154,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1155,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1156,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1157,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1158,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1159,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1160,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1161,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1162,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1163,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1164,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1165,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1166,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1167,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1168,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1169,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1170,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1171,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1172,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1173,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1174,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1175,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1176,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1177,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1178,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1179,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1180,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1181,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1182,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1183,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1184,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1185,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1186,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1187,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1188,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1189,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1190,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1191,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1192,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1193,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1194,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1195,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1196,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1197,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1198,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1199,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1200,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1201,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1202,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1203,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1204,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1205,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1206,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1207,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1208,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1209,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1210,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1211,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1212,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1213,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1214,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1215,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1216,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1217,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1218,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1219,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1220,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1221,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1222,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1223,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1224,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1225,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1226,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1227,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1228,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1229,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1230,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1231,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1232,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1233,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1234,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1235,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1236,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1237,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1238,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1239,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1240,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1241,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1242,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1243,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1244,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1245,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1246,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1247,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1248,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1249,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1250,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1251,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1252,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1253,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1254,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1255,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1256,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1257,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1258,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1259,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1260,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1261,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1262,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1263,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1264,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1265,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1266,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1267,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1268,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1269,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1270,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1271,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1272,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1273,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1274,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1275,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1276,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1277,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1278,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1279,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1280,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1281,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1282,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1283,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1284,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1285,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1286,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1287,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1288,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1289,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1290,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1291,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1292,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1293,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1294,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1295,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1296,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1297,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1298,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1299,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1300,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1301,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1302,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1303,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1304,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1305,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1306,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1307,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1308,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1309,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1310,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1311,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1312,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1313,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1314,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1315,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1316,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1317,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1318,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1319,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1320,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1321,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1322,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1323,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1324,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1325,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1326,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1327,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1328,
+   "utilite_enseignement_magistral": "Sans avis \njamais assisté \naux cours",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1329,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1330,
+   "utilite_enseignement_magistral": "Non",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1331,
+   "utilite_enseignement_magistral": "empty",
+   "annee": "DFASM2"
+ },
+ {
+   "id": 1332,
+   "utilite_enseignement_magistral": "Oui",
+   "annee": "DFASM2"
+ }
+]
